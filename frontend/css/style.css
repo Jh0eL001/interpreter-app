@@ -1,8 +1,5 @@
 /* frontend/css/style.css */
 
-/* ==========================================================================
-   1. VARIABLES & RESET (True Dark Mode Palette)
-   ========================================================================== */
 :root {
   --bg-main: #0b0f19;
   --bg-card: #141b2d;
@@ -16,23 +13,20 @@
   --border-insurance: #10b981;
   --border-banking: #6366f1;
   --border-correctional: #ec4899;
+  --border-automotive: #64748b;
 }
 
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  /* 🎯 FUENTE ACTUALIZADA: Combinación ultra-limpia para lectura rápida */
   font-family:
     "Geist",
     "Inter",
     system-ui,
     -apple-system,
-    BlinkMacSystemFont,
-    "Segoe UI",
-    Roboto,
     sans-serif;
-  letter-spacing: -0.02em; /* Letras un pelo más juntas para capturar la palabra de un vistazo */
+  letter-spacing: -0.02em;
 }
 
 body {
@@ -44,20 +38,16 @@ body {
   min-height: 100vh;
 }
 
-/* ==========================================================================
-   2. LAYOUT CONTAINER
-   ========================================================================== */
+/* CONTENEDOR ANCHO PARA MULTI-COLUMNA CON ZOOM OUT */
 .app-container {
   width: 100%;
-  max-width: 700px;
+  max-width: 1400px;
 }
 
 header {
-  margin-bottom: 1rem;
+  margin-bottom: 0.8rem;
   display: flex;
-  align-items: center;
   justify-content: center;
-  gap: 0.5rem;
 }
 
 header h1 {
@@ -66,57 +56,106 @@ header h1 {
   font-weight: 600;
 }
 
-header p {
-  display: none;
-}
-
-/* ==========================================================================
-   3. OPTIMIZED SEARCH INPUT
-   ========================================================================== */
+/* INPUT DE BÚSQUEDA COMPACTO */
 .search-box {
-  margin-bottom: 1.2rem;
+  margin-bottom: 0.8rem;
 }
-
 #search-input {
   width: 100%;
-  padding: 0.8rem 1.2rem;
+  padding: 0.7rem 1rem;
   font-size: 1.1rem;
   border: 2px solid #2e3a5f;
-  border-radius: 10px;
+  border-radius: 8px;
   background-color: var(--bg-input);
   color: var(--text-main);
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
   transition: all 0.15s ease;
 }
-
-#search-input::placeholder {
-  color: #52628a;
-}
-
 #search-input:focus {
   outline: none;
   border-color: var(--primary);
   background-color: #242f52;
-  box-shadow: 0 0 0 4px rgba(59, 130, 246, 0.2);
 }
 
-/* ==========================================================================
-   4. CARDS (Balanced Reading Architecture)
-   ========================================================================== */
-.results-list {
+/* FILAS DE BOTONES (PILLS) */
+#filter-container {
+  margin-bottom: 1rem;
+}
+.pill-row {
   display: flex;
-  flex-direction: column;
-  gap: 0.8rem;
+  flex-wrap: nowrap;
+  overflow-x: auto;
+  gap: 0.5rem;
+  padding-bottom: 0.4rem;
+  margin-bottom: 0.4rem;
+  scrollbar-width: none; /* Ocultar scrollbar en Firefox */
+}
+.pill-row::-webkit-scrollbar {
+  display: none;
+} /* Ocultar scrollbar en Chrome */
+.hidden {
+  display: none !important;
 }
 
+.pill {
+  white-space: nowrap;
+  padding: 0.4rem 0.8rem;
+  border-radius: 20px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  cursor: pointer;
+  background-color: #1e293b;
+  color: var(--text-muted);
+  border: 1px solid #334155;
+  transition: all 0.15s ease;
+}
+.pill:hover {
+  background-color: #334155;
+  color: #fff;
+}
+
+/* Estados activos de los botones por categoría LLS */
+.pill.active {
+  border-color: transparent;
+  color: #fff;
+}
+.pill.cat-Medical.active {
+  background-color: var(--border-medical);
+}
+.pill.cat-Automotive.active {
+  background-color: var(--border-automotive);
+}
+.pill.cat-Banking.active {
+  background-color: var(--border-banking);
+}
+.pill.cat-Insurance.active {
+  background-color: var(--border-insurance);
+}
+.pill.cat-Correctional.active {
+  background-color: var(--border-correctional);
+}
+.pill.cat-Legal.active {
+  background-color: var(--border-legal);
+}
+
+/* GRID RESPONSIVO LADO A LADO */
+.results-list {
+  display: grid;
+  /* Crea tantas columnas de mínimo 340px como quepan en el ancho total de la app */
+  grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+  gap: 0.8rem;
+  width: 100%;
+  align-items: start;
+}
+
+/* TARJETAS CON BORDES DE COLOR */
 .card {
   background-color: var(--bg-card);
-  border-radius: 10px;
-  padding: 1rem 1.4rem;
-  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+  border-radius: 8px;
+  padding: 0.9rem 1.2rem;
   border-left: 5px solid #475569;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  width: 100%; /* Obliga a la tarjeta a llenar su celda del Grid */
 }
-
 .card.medical {
   border-left-color: var(--border-medical);
 }
@@ -132,42 +171,39 @@ header p {
 .card.correctional {
   border-left-color: var(--border-correctional);
 }
+.card.automotive {
+  border-left-color: var(--border-automotive);
+}
 
 .card-header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin-bottom: 0.5rem; /* Un poquito más de espacio antes de la traducción */
+  margin-bottom: 0.3rem;
 }
-
-/* 🎯 CAMBIO: Término en inglés más grande y nítido para leerlo cómodo */
 .term-title {
-  font-size: 1.2rem; /* Subió de 0.95rem a 1.2rem */
-  font-weight: 600; /* Un toque más de grosor */
-  color: #cbd5e1; /* Color gris claro de alto contraste en fondo oscuro */
+  font-size: 1.15rem;
+  font-weight: 600;
+  color: #cbd5e1;
   text-transform: capitalize;
 }
-
 .badge {
   font-size: 0.65rem;
   font-weight: 700;
-  padding: 0.2rem 0.5rem;
+  padding: 0.2rem 0.4rem;
   border-radius: 4px;
   background-color: #1e293b;
-  color: #cbd5e1;
+  color: #94a3b8;
   text-transform: uppercase;
-  letter-spacing: 0.05em;
 }
 
-/* 🎯 ÉNFASIS Y NUEVA FUENTE PARA LA TRADUCCIÓN */
+/* TRADUCCIÓN EN AZUL ELÉCTRICO RESALTADO */
 .translation {
-  font-size: 1.6rem; /* Ajustado sutilmente */
-  color: #3b82f6; /* Cambiado a un azul eléctrico sutil para máxima distinción visual */
-  margin-bottom: 0.2rem;
+  font-size: 1.55rem;
+  color: #3b82f6;
   font-weight: 700;
-  line-height: 1.2;
+  line-height: 1.15;
 }
-
 .notes {
   font-size: 0.85rem;
   color: var(--text-muted);
@@ -177,19 +213,11 @@ header p {
   line-height: 1.3;
 }
 
-/* ==========================================================================
-   5. STATE UTILITIES
-   ========================================================================== */
 .placeholder-text,
-.no-results,
-.error-text {
+.no-results {
+  grid-column: 1 / -1;
   text-align: center;
   color: #52628a;
   font-style: italic;
-  padding: 1.5rem;
-  font-size: 0.95rem;
-}
-
-.error-text {
-  color: #ef4444;
+  padding: 2rem;
 }

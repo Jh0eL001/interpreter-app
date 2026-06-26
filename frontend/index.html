@@ -1,4 +1,3 @@
-<!-- frontend/index.html -->
 <!DOCTYPE html>
 <html lang="es">
 
@@ -13,25 +12,25 @@
   <div class="app-container">
     <header>
       <h1>⚡LLS Interpreter Dictionary</h1>
-      <p>Búsqueda local ultra rápida para interpretación médica, legal y correccional.</p>
     </header>
 
     <main>
-      <!-- Barra de búsqueda -->
       <div class="search-box">
-        <input type="text" id="search-input" placeholder="Escribe para buscar (ej: spine, bazo, mri...)" autofocus
+        <input type="text" id="search-input" placeholder="Buscar término, acrónimo o traducción..." autofocus
           autocomplete="off">
       </div>
 
-      <!-- Contenedor dinámico de resultados -->
+      <div id="filter-container">
+        <div id="macro-categories" class="pill-row"></div>
+        <div id="sub-scenarios" class="pill-row hidden"></div>
+      </div>
+
       <div id="results-container" class="results-list">
-        <!-- JavaScript llenará esto en tiempo real -->
-        <p class="placeholder-text">Empieza a teclear para ver traducciones al instante...</p>
+        <p class="placeholder-text">Cargando glosario en memoria...</p>
       </div>
     </main>
   </div>
 
-  <!-- Vinculamos la lógica del Frontend -->
   <script src="js/app.js"></script>
 </body>
 

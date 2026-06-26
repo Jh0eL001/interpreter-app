@@ -5,6 +5,7 @@
     "is_acronym": false,
     "translation": "via(s) respiratoria(s)",
     "category": "Medical",
+    "scenario": "Respiratory",
     "notes": "The passage by which air reaches a person's lungs."
   },
   {
@@ -13,6 +14,7 @@
     "is_acronym": false,
     "translation": "callejón, pasadizo",
     "category": "Automotive",
+    "scenario": "Roadways",
     "notes": "A narrow passageway between or behind buildings."
   },
   {
@@ -21,6 +23,7 @@
     "is_acronym": false,
     "translation": "responsabilidad máxima del paciente, tope anual",
     "category": "Insurance",
+    "scenario": "Policies",
     "notes": "Most money an insured individual will pay out of pocket per period."
   },
   {
@@ -29,6 +32,7 @@
     "is_acronym": false,
     "translation": "dispositivo contra robos",
     "category": "Insurance",
+    "scenario": "Policies",
     "notes": "Device used to prevent unauthorized appropriation of the vehicle."
   },
   {
@@ -37,6 +41,7 @@
     "is_acronym": false,
     "translation": "arreglos, acuerdos",
     "category": "Banking",
+    "scenario": "Loans & Collections",
     "notes": "Formal agreement to pay back a debt over a longer period."
   },
   {
@@ -45,6 +50,7 @@
     "is_acronym": false,
     "translation": "explosión del escape",
     "category": "Automotive",
+    "scenario": "Vehicle Parts",
     "notes": "Engine undergoing a mistimed explosion in the cylinder."
   },
   {
@@ -53,6 +59,7 @@
     "is_acronym": false,
     "translation": "respaldo",
     "category": "Automotive",
+    "scenario": "Vehicle Parts",
     "notes": "A support for a person's back when seated."
   },
   {
@@ -61,6 +68,7 @@
     "is_acronym": false,
     "translation": "saldo (NO BALANCE)",
     "category": "Banking",
+    "scenario": "Accounts",
     "notes": "LLS Strict Rule: Do not translate literally as balance."
   },
   {
@@ -69,6 +77,7 @@
     "is_acronym": false,
     "translation": "Curva sin visibilidad",
     "category": "Automotive",
+    "scenario": "Roadways",
     "notes": "Bend in a road where the driver cannot see oncoming traffic."
   },
   {
@@ -77,6 +86,7 @@
     "is_acronym": false,
     "translation": "Punto ciego, zona muerta",
     "category": "Automotive",
+    "scenario": "Driving",
     "notes": "Areas around the vehicle that cannot be directly seen by the driver."
   },
   {
@@ -85,6 +95,7 @@
     "is_acronym": false,
     "translation": "luces intermitentes, señaleros de luz",
     "category": "Automotive",
+    "scenario": "Vehicle Parts",
     "notes": "A device that blinks, vehicle's turn signal."
   },
   {
@@ -93,6 +104,7 @@
     "is_acronym": false,
     "translation": "autoexamen de los senos",
     "category": "Medical",
+    "scenario": "OB/GYN & Women's Health",
     "notes": "Screening method used to detect early breast cancer."
   },
   {
@@ -101,6 +113,7 @@
     "is_acronym": false,
     "translation": "clínica de lactancia materna",
     "category": "Medical",
+    "scenario": "OB/GYN & Women's Health",
     "notes": "Facilities supporting breastfeeding."
   },
   {
@@ -109,6 +122,7 @@
     "is_acronym": false,
     "translation": "Choque de costado",
     "category": "Automotive",
+    "scenario": "Accidents",
     "notes": "Side of one vehicle impacted by front/rear of another (T-bone)."
   },
   {
@@ -117,6 +131,7 @@
     "is_acronym": false,
     "translation": "Descompuesto",
     "category": "Automotive",
+    "scenario": "Accidents",
     "notes": "Not functioning due to mechanical failure."
   },
   {
@@ -125,6 +140,7 @@
     "is_acronym": false,
     "translation": "bronquios",
     "category": "Medical",
+    "scenario": "Respiratory",
     "notes": "Major air passages of the lungs."
   },
   {
@@ -133,6 +149,7 @@
     "is_acronym": false,
     "translation": "defensa, parachoques",
     "category": "Automotive",
+    "scenario": "Vehicle Parts",
     "notes": "Bar across front/back to lessen shock from collision."
   },
   {
@@ -141,6 +158,7 @@
     "is_acronym": false,
     "translation": "Nalga, glúteo",
     "category": "Medical",
+    "scenario": "General Practice",
     "notes": "Round fleshy parts forming lower rear area of trunk."
   },
   {
@@ -149,6 +167,7 @@
     "is_acronym": false,
     "translation": "embrague",
     "category": "Automotive",
+    "scenario": "Vehicle Parts",
     "notes": "Mechanism for connecting engine and transmission."
   },
   {
@@ -157,6 +176,7 @@
     "is_acronym": false,
     "translation": "Pararse, detenerse",
     "category": "Insurance",
+    "scenario": "Claims",
     "notes": "State of a car being motionless after an impact."
   },
   {
@@ -165,6 +185,7 @@
     "is_acronym": false,
     "translation": "enfermedad contagiable/transferible",
     "category": "Medical",
+    "scenario": "Infectious Diseases",
     "notes": "Infectious disease transmissible from person to person."
   },
   {
@@ -173,6 +194,7 @@
     "is_acronym": false,
     "translation": "cumplir",
     "category": "Banking",
+    "scenario": "Accounts",
     "notes": "To act in accordance with requirements or contracts."
   },
   {
@@ -181,6 +203,7 @@
     "is_acronym": false,
     "translation": "aval, fiador",
     "category": "Banking",
+    "scenario": "Loans & Collections",
     "notes": "Person legally responsible for money borrowed with another."
   },
   {
@@ -189,6 +212,7 @@
     "is_acronym": false,
     "translation": "piloto automático",
     "category": "Automotive",
+    "scenario": "Driving",
     "notes": "Electronic device maintaining constant speed without gas pedal."
   },
   {
@@ -197,6 +221,7 @@
     "is_acronym": false,
     "translation": "desempañador",
     "category": "Automotive",
+    "scenario": "Vehicle Parts",
     "notes": "System to clear condensation/frost from windshield."
   },
   {
@@ -205,6 +230,7 @@
     "is_acronym": false,
     "translation": "Abolladura, hendidura",
     "category": "Automotive",
+    "scenario": "Accidents",
     "notes": "Slight hollow in hard surface made by a blow."
   },
   {
@@ -213,6 +239,7 @@
     "is_acronym": true,
     "translation": "Aislado, en aislamiento",
     "category": "Correctional",
+    "scenario": "Inmate Slang",
     "notes": "Jail Slang: In isolation, segregated from others."
   },
   {
@@ -221,6 +248,7 @@
     "is_acronym": false,
     "translation": "desvío, desviación",
     "category": "Automotive",
+    "scenario": "Roadways",
     "notes": "Roundabout route taken to avoid something."
   },
   {
@@ -229,6 +257,7 @@
     "is_acronym": true,
     "translation": "vacuna contra difteria, tétanos y tos ferina",
     "category": "Medical",
+    "scenario": "Pediatrics",
     "notes": "Triple vaccine used for active immunization."
   },
   {
@@ -237,6 +266,7 @@
     "is_acronym": false,
     "translation": "Zanja",
     "category": "Automotive",
+    "scenario": "Roadways",
     "notes": "Narrow channel dug along the road for drainage."
   },
   {
@@ -245,6 +275,7 @@
     "is_acronym": false,
     "translation": "Mareada",
     "category": "Medical",
+    "scenario": "Symptoms & Pain",
     "notes": "Feeling like you are going to faint."
   },
   {
@@ -253,6 +284,7 @@
     "is_acronym": false,
     "translation": "(Recluso que planea) suicidarse",
     "category": "Correctional",
+    "scenario": "Inmate Slang",
     "notes": "Inmate talk: To commit suicide."
   },
   {
@@ -261,6 +293,7 @@
     "is_acronym": false,
     "translation": "Lloviznando",
     "category": "Automotive",
+    "scenario": "Driving",
     "notes": "Rain that falls lightly in very small drops."
   },
   {
@@ -269,6 +302,7 @@
     "is_acronym": false,
     "translation": "en dirección este, rumbo al este",
     "category": "Automotive",
+    "scenario": "Driving",
     "notes": "Going toward the east."
   },
   {
@@ -277,6 +311,7 @@
     "is_acronym": false,
     "translation": "cargo",
     "category": "Banking",
+    "scenario": "Accounts",
     "notes": "Amount of money paid for a service."
   },
   {
@@ -285,6 +320,7 @@
     "is_acronym": false,
     "translation": "guardafangos, guardabarros, salpicadera",
     "category": "Automotive",
+    "scenario": "Vehicle Parts",
     "notes": "Guard over wheel blocking splashing of water/mud."
   },
   {
@@ -293,6 +329,7 @@
     "is_acronym": false,
     "translation": "Choque leve",
     "category": "Automotive",
+    "scenario": "Accidents",
     "notes": "A minor collision between motor vehicles."
   },
   {
@@ -301,6 +338,7 @@
     "is_acronym": false,
     "translation": "Colearse",
     "category": "Automotive",
+    "scenario": "Accidents",
     "notes": "Rear end of vehicle sliding from side to side out of control."
   },
   {
@@ -309,6 +347,7 @@
     "is_acronym": false,
     "translation": "Volcarse",
     "category": "Automotive",
+    "scenario": "Accidents",
     "notes": "Turn upside down or onto the side."
   },
   {
@@ -317,6 +356,7 @@
     "is_acronym": false,
     "translation": "neblina",
     "category": "Automotive",
+    "scenario": "Driving",
     "notes": "Vapor condensed suspended in lower atmosphere near ground."
   },
   {
@@ -325,6 +365,7 @@
     "is_acronym": false,
     "translation": "autopista",
     "category": "Automotive",
+    "scenario": "Roadways",
     "notes": "An express highway with controlled access."
   },
   {
@@ -333,6 +374,7 @@
     "is_acronym": false,
     "translation": "palanca de cambio de velocidades",
     "category": "Automotive",
+    "scenario": "Vehicle Parts",
     "notes": "Device used to engage/disengage gears in transmission."
   },
   {
@@ -341,6 +383,7 @@
     "is_acronym": false,
     "translation": "Ingle",
     "category": "Medical",
+    "scenario": "General Practice",
     "notes": "Area between abdomen and thigh."
   },
   {
@@ -349,6 +392,7 @@
     "is_acronym": true,
     "translation": "organización para el mantenimiento de la salud",
     "category": "Insurance",
+    "scenario": "Policies",
     "notes": "Provides health coverage with contract providers."
   },
   {
@@ -357,6 +401,7 @@
     "is_acronym": false,
     "translation": "soplo cardiaco",
     "category": "Medical",
+    "scenario": "Cardiology",
     "notes": "Whooshing sound during heartbeat cycle."
   },
   {
@@ -365,6 +410,7 @@
     "is_acronym": false,
     "translation": "patrulla de caminos, policia vial",
     "category": "Legal",
+    "scenario": "Traffic Law",
     "notes": "Police unit overseeing traffic safety."
   },
   {
@@ -373,6 +419,7 @@
     "is_acronym": false,
     "translation": "puerta lateral pivotante",
     "category": "Automotive",
+    "scenario": "Vehicle Parts",
     "notes": "Movable door on side swinging or sliding."
   },
   {
@@ -381,6 +428,7 @@
     "is_acronym": false,
     "translation": "ronchas, urticaria",
     "category": "Medical",
+    "scenario": "Symptoms & Pain",
     "notes": "All allergic skin reaction causing redness/swelling."
   },
   {
@@ -389,6 +437,7 @@
     "is_acronym": false,
     "translation": "ronquera, carraspera",
     "category": "Medical",
+    "scenario": "Symptoms & Pain",
     "notes": "Difficulty making sounds when speaking."
   },
   {
@@ -397,6 +446,7 @@
     "is_acronym": false,
     "translation": "cuidados paliativos / terminales",
     "category": "Medical",
+    "scenario": "General Practice",
     "notes": "Care focusing on palliation of terminally ill pain."
   },
   {
@@ -405,6 +455,7 @@
     "is_acronym": false,
     "translation": "tapa de la llanta",
     "category": "Automotive",
+    "scenario": "Vehicle Parts",
     "notes": "Metal or plastic cover for the wheel hub."
   },
   {
@@ -413,6 +464,7 @@
     "is_acronym": true,
     "translation": "Cocina para reclusos/presos",
     "category": "Correctional",
+    "scenario": "Facilities",
     "notes": "Kitchen facility where inmates can work."
   },
   {
@@ -421,6 +473,7 @@
     "is_acronym": false,
     "translation": "hielo",
     "category": "Automotive",
+    "scenario": "Driving",
     "notes": "Frozen water making roads dangerous."
   },
   {
@@ -429,6 +482,7 @@
     "is_acronym": false,
     "translation": "Confiscado, incautado",
     "category": "Legal",
+    "scenario": "Traffic Law",
     "notes": "Seize legal custody of vehicle due to violation."
   },
   {
@@ -437,6 +491,7 @@
     "is_acronym": false,
     "translation": "dentro de la red de proveedores",
     "category": "Insurance",
+    "scenario": "Policies",
     "notes": "Facilities part of a plan's negotiated discount network."
   },
   {
@@ -445,6 +500,7 @@
     "is_acronym": false,
     "translation": "paciente hospitalizado / internado",
     "category": "Medical",
+    "scenario": "ER & Trauma",
     "notes": "Patient who stays in a hospital under treatment."
   },
   {
@@ -453,6 +509,7 @@
     "is_acronym": false,
     "translation": "pagos",
     "category": "Banking",
+    "scenario": "Loans & Collections",
     "notes": "Payments made as a series over time."
   },
   {
@@ -461,6 +518,7 @@
     "is_acronym": false,
     "translation": "fondos insuficientes",
     "category": "Banking",
+    "scenario": "Accounts",
     "notes": "Check returned because account lacks cash."
   },
   {
@@ -469,6 +527,7 @@
     "is_acronym": false,
     "translation": "carril",
     "category": "Automotive",
+    "scenario": "Roadways",
     "notes": "Division of road marked to separate lines of traffic."
   },
   {
@@ -477,6 +536,7 @@
     "is_acronym": false,
     "translation": "extremidad",
     "category": "Medical",
+    "scenario": "General Practice",
     "notes": "An arm or leg of a person."
   },
   {
@@ -485,6 +545,7 @@
     "is_acronym": false,
     "translation": "falta de energía",
     "category": "Medical",
+    "scenario": "Symptoms & Pain",
     "notes": "Characterized by lack of energy or lethargy."
   },
   {
@@ -493,6 +554,7 @@
     "is_acronym": false,
     "translation": "préstamo",
     "category": "Banking",
+    "scenario": "Loans & Collections",
     "notes": "Sum of money lent at interest."
   },
   {
@@ -501,6 +563,7 @@
     "is_acronym": false,
     "translation": "pastilla/caramelo para la tos",
     "category": "Medical",
+    "scenario": "Respiratory",
     "notes": "Medicated material sucked to relieve sore throat."
   },
   {
@@ -509,6 +572,7 @@
     "is_acronym": false,
     "translation": "el precio de mercado",
     "category": "Insurance",
+    "scenario": "Policies",
     "notes": "Amount for which something can be sold."
   },
   {
@@ -517,6 +581,7 @@
     "is_acronym": false,
     "translation": "franja central",
     "category": "Automotive",
+    "scenario": "Roadways",
     "notes": "Strip of land between opposing traffic lanes."
   },
   {
@@ -525,6 +590,7 @@
     "is_acronym": false,
     "translation": "comedor (de reclusos)",
     "category": "Correctional",
+    "scenario": "Facilities",
     "notes": "Room where groups of inmates eat together."
   },
   {
@@ -533,6 +599,7 @@
     "is_acronym": false,
     "translation": "modelo",
     "category": "Automotive",
+    "scenario": "Vehicle Parts",
     "notes": "Particular brand size sold by car manufacturer."
   },
   {
@@ -541,6 +608,7 @@
     "is_acronym": false,
     "translation": "Citación de transito en marcha",
     "category": "Legal",
+    "scenario": "Traffic Law",
     "notes": "Breach of traffic laws occurring while moving."
   },
   {
@@ -549,6 +617,7 @@
     "is_acronym": false,
     "translation": "lodera, polveadora",
     "category": "Automotive",
+    "scenario": "Vehicle Parts",
     "notes": "Flap hanging behind wheel blocking stones/mud."
   },
   {
@@ -557,6 +626,7 @@
     "is_acronym": false,
     "translation": "guardabarros, guardafangos",
     "category": "Automotive",
+    "scenario": "Vehicle Parts",
     "notes": "Cover over wheel designed to protect rider."
   },
   {
@@ -565,6 +635,7 @@
     "is_acronym": false,
     "translation": "colisión/choque múltiple",
     "category": "Insurance",
+    "scenario": "Claims",
     "notes": "Involving multiple cars in an accident."
   },
   {
@@ -573,6 +644,7 @@
     "is_acronym": false,
     "translation": "paperas, parotiditis",
     "category": "Medical",
+    "scenario": "Infectious Diseases",
     "notes": "Infectious disease causing swelling of salivary glands."
   },
   {
@@ -581,6 +653,7 @@
     "is_acronym": false,
     "translation": "rótulo de calle sin salida",
     "category": "Automotive",
+    "scenario": "Roadways",
     "notes": "Sign indicating road terminates in a dead end."
   },
   {
@@ -589,6 +662,7 @@
     "is_acronym": false,
     "translation": "enfermera facultativa",
     "category": "Medical",
+    "scenario": "Staff & Providers",
     "notes": "Advanced practice nurse trained much like doctors."
   },
   {
@@ -597,6 +671,7 @@
     "is_acronym": false,
     "translation": "Rampa/carril de salida",
     "category": "Automotive",
+    "scenario": "Roadways",
     "notes": "Ramp allowing vehicles to exit controlled highway."
   },
   {
@@ -605,6 +680,7 @@
     "is_acronym": false,
     "translation": "Rampa/carril de entrada",
     "category": "Automotive",
+    "scenario": "Roadways",
     "notes": "Ramp allowing vehicles to enter controlled highway."
   },
   {
@@ -613,6 +689,7 @@
     "is_acronym": false,
     "translation": "calle de una sola vía",
     "category": "Automotive",
+    "scenario": "Roadways",
     "notes": "Street allowing traffic movement in one direction only."
   },
   {
@@ -621,6 +698,7 @@
     "is_acronym": false,
     "translation": "sobregiro",
     "category": "Banking",
+    "scenario": "Accounts",
     "notes": "Deficit caused by drawing more money than held."
   },
   {
@@ -629,6 +707,7 @@
     "is_acronym": false,
     "translation": "puente elevado, paso elevado",
     "category": "Automotive",
+    "scenario": "Roadways",
     "notes": "A bridge by which a road passes over another."
   },
   {
@@ -637,6 +716,7 @@
     "is_acronym": false,
     "translation": "Se volcó (volcarse)",
     "category": "Automotive",
+    "scenario": "Accidents",
     "notes": "Vehicle tipped over onto its side or upside down."
   },
   {
@@ -645,6 +725,7 @@
     "is_acronym": false,
     "translation": "Pálida",
     "category": "Medical",
+    "scenario": "Symptoms & Pain",
     "notes": "Light in color, having little color in skin."
   },
   {
@@ -653,6 +734,7 @@
     "is_acronym": false,
     "translation": "Papanicolaou",
     "category": "Medical",
+    "scenario": "OB/GYN & Women's Health",
     "notes": "Procedure to test for cervical cancer in women."
   },
   {
@@ -661,6 +743,7 @@
     "is_acronym": false,
     "translation": "desmayarse",
     "category": "Medical",
+    "scenario": "ER & Trauma",
     "notes": "To become completely unconscious."
   },
   {
@@ -669,6 +752,7 @@
     "is_acronym": false,
     "translation": "talones de cheque, comprobantes",
     "category": "Banking",
+    "scenario": "Accounts",
     "notes": "Paper showing employee earnings and tax deductions."
   },
   {
@@ -677,6 +761,7 @@
     "is_acronym": false,
     "translation": "cruce peatonal / de peatones",
     "category": "Automotive",
+    "scenario": "Roadways",
     "notes": "Marked part of road where pedestrians have right of way."
   },
   {
@@ -685,6 +770,7 @@
     "is_acronym": false,
     "translation": "tos ferina",
     "category": "Medical",
+    "scenario": "Infectious Diseases",
     "notes": "Contagious bacterial disease; whooping cough."
   },
   {
@@ -693,6 +779,7 @@
     "is_acronym": false,
     "translation": "Flema",
     "category": "Medical",
+    "scenario": "Respiratory",
     "notes": "Thick viscous substance secreted by mucous membranes."
   },
   {
@@ -701,6 +788,7 @@
     "is_acronym": false,
     "translation": "Camioneta",
     "category": "Automotive",
+    "scenario": "Vehicle Parts",
     "notes": "Small truck with enclosed cab and open back."
   },
   {
@@ -709,6 +797,7 @@
     "is_acronym": true,
     "translation": "número de identificación personal",
     "category": "Banking",
+    "scenario": "Accounts",
     "notes": "Personal Identification Number password."
   },
   {
@@ -717,6 +806,7 @@
     "is_acronym": false,
     "translation": "hormigueo, punzadas",
     "category": "Medical",
+    "scenario": "Symptoms & Pain",
     "notes": "Tingling or prickling sensation usually in limbs."
   },
   {
@@ -725,6 +815,7 @@
     "is_acronym": false,
     "translation": "titular de la póliza",
     "category": "Insurance",
+    "scenario": "Policies",
     "notes": "Person in whose name an insurance policy is held."
   },
   {
@@ -733,6 +824,7 @@
     "is_acronym": false,
     "translation": "frenos de potencia",
     "category": "Automotive",
+    "scenario": "Vehicle Parts",
     "notes": "System of hydraulics used to slow down vehicles."
   },
   {
@@ -741,6 +833,7 @@
     "is_acronym": false,
     "translation": "cerradura automática",
     "category": "Automotive",
+    "scenario": "Vehicle Parts",
     "notes": "Locks allowing simultaneous control of all doors."
   },
   {
@@ -749,6 +842,7 @@
     "is_acronym": false,
     "translation": "maletero automático",
     "category": "Automotive",
+    "scenario": "Vehicle Parts",
     "notes": "A vehicle's power operated trunk compartment."
   },
   {
@@ -757,6 +851,7 @@
     "is_acronym": true,
     "translation": "Organización de Proveedores Preferenciales",
     "category": "Insurance",
+    "scenario": "Policies",
     "notes": "Managed care network plan; no referral needed."
   },
   {
@@ -765,6 +860,7 @@
     "is_acronym": false,
     "translation": "panel frontal o trasero",
     "category": "Automotive",
+    "scenario": "Vehicle Parts",
     "notes": "Any exterior body panel surface of an automobile."
   },
   {
@@ -773,6 +869,7 @@
     "is_acronym": false,
     "translation": "erupción, sarpullido",
     "category": "Medical",
+    "scenario": "Symptoms & Pain",
     "notes": "Breaking out or eruption of the skin due to allergies."
   },
   {
@@ -781,15 +878,8 @@
     "is_acronym": false,
     "translation": "espejo retrovisor",
     "category": "Automotive",
+    "scenario": "Vehicle Parts",
     "notes": "Mirror fixed inside enabling to see behind."
-  },
-  {
-    "id": 99,
-    "term": "Recorded Statement",
-    "is_acronym": false,
-    "translation": "declaración grabada",
-    "category": "Insurance",
-    "notes": "Formal oral declaration recorded by an adjuster."
   },
   {
     "id": 100,
@@ -797,6 +887,7 @@
     "is_acronym": false,
     "translation": "estribos y escalones",
     "category": "Automotive",
+    "scenario": "Vehicle Parts",
     "notes": "Footboard extending along the side of high vehicles."
   },
   {
@@ -805,6 +896,7 @@
     "is_acronym": false,
     "translation": "Raspón-raya, raspadura",
     "category": "Automotive",
+    "scenario": "Accidents",
     "notes": "Score or mark on surface with a sharp object."
   },
   {
@@ -813,6 +905,7 @@
     "is_acronym": false,
     "translation": "Pruebas de detección",
     "category": "Medical",
+    "scenario": "General Practice",
     "notes": "Test designed to identify or eliminate diseases."
   },
   {
@@ -821,6 +914,7 @@
     "is_acronym": false,
     "translation": "ataque convulsivo",
     "category": "Medical",
+    "scenario": "ER & Trauma",
     "notes": "Sudden attack with convulsions from brain discharges."
   },
   {
@@ -829,6 +923,7 @@
     "is_acronym": false,
     "translation": "grilletes",
     "category": "Correctional",
+    "scenario": "Inmate Slang",
     "notes": "Inmate talk: Fastening device to restrain prisoners."
   },
   {
@@ -837,6 +932,7 @@
     "is_acronym": false,
     "translation": "Temblando",
     "category": "Medical",
+    "scenario": "Symptoms & Pain",
     "notes": "To shake involuntarily from fear, cold, or weakness."
   },
   {
@@ -845,6 +941,7 @@
     "is_acronym": false,
     "translation": "escasez",
     "category": "Banking",
+    "scenario": "Accounts",
     "notes": "State where there is not enough money in escrow."
   },
   {
@@ -853,6 +950,7 @@
     "is_acronym": false,
     "translation": "falta de aliento, o de aire",
     "category": "Medical",
+    "scenario": "Respiratory",
     "notes": "Laboring or difficult breathing sensation."
   },
   {
@@ -861,6 +959,7 @@
     "is_acronym": false,
     "translation": "enfermería",
     "category": "Correctional",
+    "scenario": "Facilities",
     "notes": "Inmate talk: Medical care room within a jail."
   },
   {
@@ -869,6 +968,7 @@
     "is_acronym": false,
     "translation": "espejos laterales retrovisores",
     "category": "Automotive",
+    "scenario": "Vehicle Parts",
     "notes": "Exterior mirrors for viewing the blind spot areas."
   },
   {
@@ -877,6 +977,7 @@
     "is_acronym": false,
     "translation": "acera, banqueta",
     "category": "Automotive",
+    "scenario": "Roadways",
     "notes": "Paved path for pedestrians at the side of a road."
   },
   {
@@ -885,6 +986,7 @@
     "is_acronym": false,
     "translation": "Señal",
     "category": "Automotive",
+    "scenario": "Driving",
     "notes": "Gesture or traffic device conveying instructions."
   },
   {
@@ -893,6 +995,7 @@
     "is_acronym": false,
     "translation": "Patinar",
     "category": "Automotive",
+    "scenario": "Driving",
     "notes": "Slide sideways on slippery ground or turning fast."
   },
   {
@@ -901,6 +1004,7 @@
     "is_acronym": false,
     "translation": "Huellas de frenazo",
     "category": "Automotive",
+    "scenario": "Accidents",
     "notes": "Black marks left on a road by skidding tires."
   },
   {
@@ -909,6 +1013,7 @@
     "is_acronym": false,
     "translation": "patinó",
     "category": "Automotive",
+    "scenario": "Driving",
     "notes": "Past tense of a vehicle sliding out of control."
   },
   {
@@ -917,6 +1022,7 @@
     "is_acronym": false,
     "translation": "Embestir",
     "category": "Automotive",
+    "scenario": "Accidents",
     "notes": "Heavy blow, impact, or violent closing of a door."
   },
   {
@@ -925,6 +1031,7 @@
     "is_acronym": false,
     "translation": "cabestrillo",
     "category": "Medical",
+    "scenario": "ER & Trauma",
     "notes": "Supporting bandage loop suspended from the neck."
   },
   {
@@ -933,6 +1040,7 @@
     "is_acronym": false,
     "translation": "Planta (del pie)",
     "category": "Medical",
+    "scenario": "General Practice",
     "notes": "The bottom surface of the foot."
   },
   {
@@ -941,6 +1049,7 @@
     "is_acronym": false,
     "translation": "episodio",
     "category": "Medical",
+    "scenario": "Symptoms & Pain",
     "notes": "A period of bodily or mental distress (fainting)."
   },
   {
@@ -949,6 +1058,7 @@
     "is_acronym": false,
     "translation": "columna vertebral",
     "category": "Medical",
+    "scenario": "ER & Trauma",
     "notes": "Series of vertebrae encasing the spinal cord."
   },
   {
@@ -957,6 +1067,7 @@
     "is_acronym": false,
     "translation": "espina dorsal",
     "category": "Medical",
+    "scenario": "ER & Trauma",
     "notes": "The backbone providing skeletal structure support."
   },
   {
@@ -965,6 +1076,7 @@
     "is_acronym": false,
     "translation": "Bazo",
     "category": "Medical",
+    "scenario": "General Practice",
     "notes": "Largest lymphatic organ filtering blood cells."
   },
   {
@@ -973,6 +1085,7 @@
     "is_acronym": false,
     "translation": "esguince, torcedura",
     "category": "Medical",
+    "scenario": "ER & Trauma",
     "notes": "A stretching or tearing of bone ligaments."
   },
   {
@@ -981,6 +1094,7 @@
     "is_acronym": false,
     "translation": "estado de cuenta",
     "category": "Banking",
+    "scenario": "Accounts",
     "notes": "Document showing financial account transactions summary."
   },
   {
@@ -989,6 +1103,7 @@
     "is_acronym": false,
     "translation": "timón, volante",
     "category": "Automotive",
+    "scenario": "Vehicle Parts",
     "notes": "Wheel that a driver rotates to steer the vehicle."
   },
   {
@@ -997,6 +1112,7 @@
     "is_acronym": false,
     "translation": "distensión muscular, cepa",
     "category": "Medical",
+    "scenario": "ER & Trauma",
     "notes": "Tearing of muscle/tendon, or bacterial strain."
   },
   {
@@ -1005,6 +1121,7 @@
     "is_acronym": false,
     "translation": "infección de estreptococo B",
     "category": "Medical",
+    "scenario": "Infectious Diseases",
     "notes": "Bacterial throat infection causing complications."
   },
   {
@@ -1013,6 +1130,7 @@
     "is_acronym": false,
     "translation": "Camilla, parihuela",
     "category": "Medical",
+    "scenario": "ER & Trauma",
     "notes": "Apparatus used for moving ambulance patients."
   },
   {
@@ -1021,6 +1139,7 @@
     "is_acronym": false,
     "translation": "tapado, congestionado",
     "category": "Medical",
+    "scenario": "Respiratory",
     "notes": "Excess secretions in the nasal passages."
   },
   {
@@ -1029,6 +1148,7 @@
     "is_acronym": false,
     "translation": "ceder, entregar",
     "category": "Banking",
+    "scenario": "Loans & Collections",
     "notes": "Give up property/vehicle due to non-payment."
   },
   {
@@ -1037,6 +1157,7 @@
     "is_acronym": false,
     "translation": "Desviarse bruscamente",
     "category": "Automotive",
+    "scenario": "Driving",
     "notes": "Veer or change direction abruptly to avoid hit."
   },
   {
@@ -1045,6 +1166,7 @@
     "is_acronym": false,
     "translation": "Hinchado",
     "category": "Medical",
+    "scenario": "Symptoms & Pain",
     "notes": "Become bigger due to soft tissue fluid buildup."
   },
   {
@@ -1053,6 +1175,7 @@
     "is_acronym": false,
     "translation": "Pegarse o seguir de cerca",
     "category": "Automotive",
+    "scenario": "Driving",
     "notes": "To drive too closely behind another vehicle."
   },
   {
@@ -1061,6 +1184,7 @@
     "is_acronym": false,
     "translation": "luz trasera",
     "category": "Automotive",
+    "scenario": "Vehicle Parts",
     "notes": "A warning light located at the rear of a vehicle."
   },
   {
@@ -1069,6 +1193,7 @@
     "is_acronym": false,
     "translation": "(Recluso) con SIDA",
     "category": "Correctional",
+    "scenario": "Inmate Slang",
     "notes": "Inmate slang: Having HIV/AIDS in jail."
   },
   {
@@ -1077,6 +1202,7 @@
     "is_acronym": false,
     "translation": "dolor pulsante, palpitante",
     "category": "Medical",
+    "scenario": "Symptoms & Pain",
     "notes": "Deep pulsating pain associated with migraines."
   },
   {
@@ -1085,6 +1211,7 @@
     "is_acronym": false,
     "translation": "hormigueo",
     "category": "Medical",
+    "scenario": "Symptoms & Pain",
     "notes": "Sensation of being poked lightly with needles."
   },
   {
@@ -1093,6 +1220,7 @@
     "is_acronym": false,
     "translation": "amigdalitis",
     "category": "Medical",
+    "scenario": "Infectious Diseases",
     "notes": "Inflammation of the throat tonsils."
   },
   {
@@ -1101,6 +1229,7 @@
     "is_acronym": false,
     "translation": "amigdalas",
     "category": "Medical",
+    "scenario": "General Practice",
     "notes": "Masses of lymphoid tissue in the throat."
   },
   {
@@ -1109,6 +1238,7 @@
     "is_acronym": false,
     "translation": "remolcado",
     "category": "Automotive",
+    "scenario": "Accidents",
     "notes": "Vehicle pulled by chains or tow platform."
   },
   {
@@ -1117,6 +1247,7 @@
     "is_acronym": false,
     "translation": "Estacionamiento de vehículos remolcados",
     "category": "Automotive",
+    "scenario": "Accidents",
     "notes": "Storage facility to park disabled vehicles."
   },
   {
@@ -1125,6 +1256,7 @@
     "is_acronym": false,
     "translation": "semáforo",
     "category": "Automotive",
+    "scenario": "Roadways",
     "notes": "Automatically operated colored road signal lights."
   },
   {
@@ -1133,6 +1265,7 @@
     "is_acronym": false,
     "translation": "control del tráfico / transito",
     "category": "Automotive",
+    "scenario": "Roadways",
     "notes": "Directing traffic around construction or accidents."
   },
   {
@@ -1141,6 +1274,7 @@
     "is_acronym": false,
     "translation": "señal de tránsito",
     "category": "Automotive",
+    "scenario": "Roadways",
     "notes": "Sign conveying instructions or road warnings."
   },
   {
@@ -1149,6 +1283,7 @@
     "is_acronym": false,
     "translation": "enganche de remolque",
     "category": "Automotive",
+    "scenario": "Vehicle Parts",
     "notes": "Device attached to chassis used for towing."
   },
   {
@@ -1157,6 +1292,7 @@
     "is_acronym": false,
     "translation": "flecha de cruce / para voltear",
     "category": "Automotive",
+    "scenario": "Roadways",
     "notes": "Signal arrow indicating allowed turn directions."
   },
   {
@@ -1165,6 +1301,7 @@
     "is_acronym": false,
     "translation": "señalero, luz de cruce",
     "category": "Automotive",
+    "scenario": "Vehicle Parts",
     "notes": "Flashing light showing intention to change lanes."
   },
   {
@@ -1173,6 +1310,7 @@
     "is_acronym": false,
     "translation": "carril para dar vuelta",
     "category": "Automotive",
+    "scenario": "Roadways",
     "notes": "Auxiliary lane to wait safely for a left turn."
   },
   {
@@ -1181,6 +1319,7 @@
     "is_acronym": false,
     "translation": "análisis de orina",
     "category": "Medical",
+    "scenario": "General Practice",
     "notes": "Test evaluating urine to detect UTIs or diabetes."
   },
   {
@@ -1189,6 +1328,7 @@
     "is_acronym": false,
     "translation": "incontinencia urinaria",
     "category": "Medical",
+    "scenario": "General Practice",
     "notes": "Involuntary leakage or inability to hold urine."
   },
   {
@@ -1197,6 +1337,7 @@
     "is_acronym": false,
     "translation": "Vacunas",
     "category": "Medical",
+    "scenario": "General Practice",
     "notes": "Process rendering a person resistant to disease."
   },
   {
@@ -1205,6 +1346,7 @@
     "is_acronym": false,
     "translation": "flujo vaginal, secreción",
     "category": "Medical",
+    "scenario": "OB/GYN & Women's Health",
     "notes": "Secretions from the vagina (thick, thin, odors)."
   },
   {
@@ -1213,6 +1355,7 @@
     "is_acronym": false,
     "translation": "micosis vaginal",
     "category": "Medical",
+    "scenario": "OB/GYN & Women's Health",
     "notes": "Fungal infection causing intense itchiness."
   },
   {
@@ -1221,6 +1364,7 @@
     "is_acronym": false,
     "translation": "vaciar la vejiga",
     "category": "Medical",
+    "scenario": "General Practice",
     "notes": "To discharge or emit urine completely."
   },
   {
@@ -1229,6 +1373,7 @@
     "is_acronym": false,
     "translation": "exonerar",
     "category": "Banking",
+    "scenario": "Accounts",
     "notes": "Refrain from enforcing a contract fee safely."
   },
   {
@@ -1237,6 +1382,7 @@
     "is_acronym": false,
     "translation": "andadera, andador",
     "category": "Medical",
+    "scenario": "Pharmacy",
     "notes": "Support frame for injured/elderly walking help."
   },
   {
@@ -1245,6 +1391,7 @@
     "is_acronym": false,
     "translation": "clínica ambulatoria",
     "category": "Medical",
+    "scenario": "General Practice",
     "notes": "Medical facility accepting patients without appointments."
   },
   {
@@ -1253,6 +1400,7 @@
     "is_acronym": false,
     "translation": "defecación aguada",
     "category": "Medical",
+    "scenario": "Symptoms & Pain",
     "notes": "Bouts of loose diarrhea stools with little form."
   },
   {
@@ -1261,6 +1409,7 @@
     "is_acronym": false,
     "translation": "resuello, silbido",
     "category": "Medical",
+    "scenario": "Respiratory",
     "notes": "Whistling or rattling chest sound from air passage blocks."
   },
   {
@@ -1269,6 +1418,7 @@
     "is_acronym": false,
     "translation": "latigazo",
     "category": "Medical",
+    "scenario": "ER & Trauma",
     "notes": "Neck injury caused by sudden rapid head jerking."
   },
   {
@@ -1277,6 +1427,7 @@
     "is_acronym": false,
     "translation": "tráquea",
     "category": "Medical",
+    "scenario": "Respiratory",
     "notes": "Cartilaginous tube connecting pharynx to lungs."
   },
   {
@@ -1285,6 +1436,7 @@
     "is_acronym": false,
     "translation": "escobillas, limpiaparabrisas",
     "category": "Automotive",
+    "scenario": "Vehicle Parts",
     "notes": "Motor device keeping windshield clear of rain."
   },
   {
@@ -1293,6 +1445,7 @@
     "is_acronym": false,
     "translation": "Retiro",
     "category": "Banking",
+    "scenario": "Accounts",
     "notes": "Removal of money from a place of deposit."
   },
   {
@@ -1301,6 +1454,7 @@
     "is_acronym": false,
     "translation": "vientre, el útero, la matriz",
     "category": "Medical",
+    "scenario": "OB/GYN & Women's Health",
     "notes": "The uterus organ structure."
   },
   {
@@ -1309,6 +1463,2086 @@
     "is_acronym": false,
     "translation": "señal de ceder el paso / la via",
     "category": "Automotive",
+    "scenario": "Roadways",
     "notes": "Sign instructing drivers to slow down and defer."
+  },
+  {
+    "id": 165,
+    "term": "acute pain",
+    "is_acronym": false,
+    "translation": "dolor agudo",
+    "category": "Medical",
+    "scenario": "Symptoms & Pain",
+    "notes": "A very sharp and severe pain."
+  },
+  {
+    "id": 166,
+    "term": "Advance Directive / Advanced Medical Directive",
+    "is_acronym": false,
+    "translation": "Directriz Médica Anticipada / Adelantada",
+    "category": "Medical",
+    "scenario": "General Practice",
+    "notes": "Legal document expressing end-of-life decisions ahead of time."
+  },
+  {
+    "id": 167,
+    "term": "angina pectoris",
+    "is_acronym": false,
+    "translation": "angina de pecho",
+    "category": "Medical",
+    "scenario": "Cardiology",
+    "notes": "Severe chest pain due to inadequate blood supply to the heart."
+  },
+  {
+    "id": 168,
+    "term": "armbands",
+    "is_acronym": false,
+    "translation": "brazalete / brazal",
+    "category": "Medical",
+    "scenario": "General Practice",
+    "notes": "Identification band worn around the arm in hospitals."
+  },
+  {
+    "id": 169,
+    "term": "bed sore / bedsore",
+    "is_acronym": false,
+    "translation": "escaras / úlceras por presión / llagas de cama",
+    "category": "Medical",
+    "scenario": "Symptoms & Pain",
+    "notes": "Skin ulceration caused by prolonged pressure in immobile patients."
+  },
+  {
+    "id": 170,
+    "term": "bedridden",
+    "is_acronym": false,
+    "translation": "postrado en cama",
+    "category": "Medical",
+    "scenario": "General Practice",
+    "notes": "Forced to stay in bed because of illness, injury or weakness."
+  },
+  {
+    "id": 171,
+    "term": "bladder",
+    "is_acronym": false,
+    "translation": "vejiga",
+    "category": "Medical",
+    "scenario": "General Practice",
+    "notes": "The organ in the body that holds urine after leaving the kidneys."
+  },
+  {
+    "id": 172,
+    "term": "blister",
+    "is_acronym": false,
+    "translation": "ampolla",
+    "category": "Medical",
+    "scenario": "Symptoms & Pain",
+    "notes": "A raised area on the skin containing clear liquid."
+  },
+  {
+    "id": 173,
+    "term": "blistering",
+    "is_acronym": false,
+    "translation": "ampollarse / formación de ampollas",
+    "category": "Medical",
+    "scenario": "Symptoms & Pain",
+    "notes": "The development of fluid-filled pouches on the skin."
+  },
+  {
+    "id": 174,
+    "term": "blood test",
+    "is_acronym": false,
+    "translation": "muestra de sangre / análisis de sangre",
+    "category": "Medical",
+    "scenario": "General Practice",
+    "notes": "Laboratory test used to analyze blood cells or substances."
+  },
+  {
+    "id": 175,
+    "term": "blood poisoning (sepsis)",
+    "is_acronym": false,
+    "translation": "envenenamiento de la sangre / septicemia",
+    "category": "Medical",
+    "scenario": "Infectious Diseases",
+    "notes": "Presence of pathogenic microorganisms or toxins in the bloodstream."
+  },
+  {
+    "id": 176,
+    "term": "booster",
+    "is_acronym": false,
+    "translation": "dosis de refuerzo / vacuna de refuerzo",
+    "category": "Medical",
+    "scenario": "General Practice",
+    "notes": "Additional dose to renew or increase immunization effect."
+  },
+  {
+    "id": 177,
+    "term": "borderline",
+    "is_acronym": false,
+    "translation": "en el límite / al borde",
+    "category": "Medical",
+    "scenario": "General Practice",
+    "notes": "The threshold between normal and abnormal (e.g. borderline diabetic)."
+  },
+  {
+    "id": 178,
+    "term": "braces (dental)",
+    "is_acronym": false,
+    "translation": "aparatos dentales / frenos / correctores ortodónticos",
+    "category": "Medical",
+    "scenario": "General Practice",
+    "notes": "Orthodontic device used to align teeth."
+  },
+  {
+    "id": 179,
+    "term": "brain injury",
+    "is_acronym": false,
+    "translation": "lesión cerebral / daño cerebral",
+    "category": "Medical",
+    "scenario": "ER & Trauma",
+    "notes": "Impairment of brain structure or function due to trauma."
+  },
+  {
+    "id": 180,
+    "term": "breech delivery",
+    "is_acronym": false,
+    "translation": "parto de nalgas / parto podálico",
+    "category": "Medical",
+    "scenario": "OB/GYN & Women's Health",
+    "notes": "Delivery where the buttocks or feet of the baby come out first."
+  },
+  {
+    "id": 181,
+    "term": "bruises",
+    "is_acronym": false,
+    "translation": "moretones / contusiones / magulladuras",
+    "category": "Medical",
+    "scenario": "Symptoms & Pain",
+    "notes": "Dark, painful skin area caused by internal bleeding after trauma."
+  },
+  {
+    "id": 182,
+    "term": "bulb syringe",
+    "is_acronym": false,
+    "translation": "pera de goma / jeringa de succión / jeringa de pera",
+    "category": "Medical",
+    "scenario": "Pediatrics",
+    "notes": "Compressible rubber bulb used for gentle suction of body drainage."
+  },
+  {
+    "id": 183,
+    "term": "cardiac arrest",
+    "is_acronym": false,
+    "translation": "paro cardíaco",
+    "category": "Medical",
+    "scenario": "ER & Trauma",
+    "notes": "Sudden loss of cardiac function, heart abruptly stops beating."
+  },
+  {
+    "id": 184,
+    "term": "cervix",
+    "is_acronym": false,
+    "translation": "cuello del útero / cérvix",
+    "category": "Medical",
+    "scenario": "OB/GYN & Women's Health",
+    "notes": "The narrow outer end of the uterus opening into the vagina."
+  },
+  {
+    "id": 185,
+    "term": "chapped lips",
+    "is_acronym": false,
+    "translation": "labios agrietados / labios partidos",
+    "category": "Medical",
+    "scenario": "Symptoms & Pain",
+    "notes": "Dry, red, and cracked lips due to cold or wind exposure."
+  },
+  {
+    "id": 186,
+    "term": "chickenpox",
+    "is_acronym": false,
+    "translation": "varicela",
+    "category": "Medical",
+    "scenario": "Infectious Diseases",
+    "notes": "Contagious viral infection causing itchy blisters and fever."
+  },
+  {
+    "id": 187,
+    "term": "choking",
+    "is_acronym": false,
+    "translation": "estar atragantado / estar ahogándose",
+    "category": "Medical",
+    "scenario": "ER & Trauma",
+    "notes": "Inability to breathe due to a foreign object stuck in the throat."
+  },
+  {
+    "id": 188,
+    "term": "circulatory disease",
+    "is_acronym": false,
+    "translation": "enfermedades circulatorias / vasculares",
+    "category": "Medical",
+    "scenario": "Cardiology",
+    "notes": "Disorders relating to blood flow and vessel efficiency."
+  },
+  {
+    "id": 189,
+    "term": "collodion",
+    "is_acronym": false,
+    "translation": "colodión",
+    "category": "Medical",
+    "scenario": "Pharmacy",
+    "notes": "Liquid protectant applied to close minor wounds or cuts."
+  },
+  {
+    "id": 190,
+    "term": "colostrum",
+    "is_acronym": false,
+    "translation": "calostro",
+    "category": "Medical",
+    "scenario": "OB/GYN & Women's Health",
+    "notes": "The first thin, antibody-rich milk secreted after childbirth."
+  },
+  {
+    "id": 191,
+    "term": "colposcopy",
+    "is_acronym": false,
+    "translation": "colposcopia",
+    "category": "Medical",
+    "scenario": "OB/GYN & Women's Health",
+    "notes": "Visual examination of the cervix using a magnifying instrument."
+  },
+  {
+    "id": 192,
+    "term": "compression stockings",
+    "is_acronym": false,
+    "translation": "medias de compresión",
+    "category": "Medical",
+    "scenario": "General Practice",
+    "notes": "Garments designed to compress limbs and combat venous disorders."
+  },
+  {
+    "id": 193,
+    "term": "contraception / birth control",
+    "is_acronym": false,
+    "translation": "anticonceptivo / control de la natalidad",
+    "category": "Medical",
+    "scenario": "OB/GYN & Women's Health",
+    "notes": "Methods or devices used to intentionally prevent pregnancy."
+  },
+  {
+    "id": 194,
+    "term": "contrast dye",
+    "is_acronym": false,
+    "translation": "medio de contraste / líquido de contraste",
+    "category": "Medical",
+    "scenario": "General Practice",
+    "notes": "Solution used to accentuate specific structures during medical imaging."
+  },
+  {
+    "id": 195,
+    "term": "cramps",
+    "is_acronym": false,
+    "translation": "cólicos / retorcijones / calambres",
+    "category": "Medical",
+    "scenario": "Symptoms & Pain",
+    "notes": "Sharp involuntary muscle spasms or internal abdominal pains."
+  },
+  {
+    "id": 196,
+    "term": "crawling sensation",
+    "is_acronym": false,
+    "translation": "sensación de hormigueo / agitación nerviosa",
+    "category": "Medical",
+    "scenario": "Symptoms & Pain",
+    "notes": "Sensation similar to insects walking on or under the skin."
+  },
+  {
+    "id": 197,
+    "term": "crib death / SIDS",
+    "is_acronym": true,
+    "translation": "muerte de cuna / Síndrome de Muerte Súbita del Lactante",
+    "category": "Medical",
+    "scenario": "Pediatrics",
+    "notes": "Unexplained death of a completely healthy sleeping infant."
+  },
+  {
+    "id": 198,
+    "term": "dairy products",
+    "is_acronym": false,
+    "translation": "productos lácteos",
+    "category": "Medical",
+    "scenario": "General Practice",
+    "notes": "Foods or beverages produced from milk."
+  },
+  {
+    "id": 199,
+    "term": "dietitian",
+    "is_acronym": false,
+    "translation": "dietista / nutricionista / nutriólogo",
+    "category": "Medical",
+    "scenario": "Staff & Providers",
+    "notes": "A person whose job is to give people advice about what to eat in order to be healthy."
+  },
+  {
+    "id": 200,
+    "term": "Dilation and Curettage (D&C)",
+    "is_acronym": true,
+    "translation": "dilatación y curetaje / legrado / raspado",
+    "category": "Medical",
+    "scenario": "OB/GYN & Women's Health",
+    "notes": "Surgical widening of cervix to remove tissue from uterine lining."
+  },
+  {
+    "id": 201,
+    "term": "Diphtheria, Pertussis, and Tetanus (DPT)",
+    "is_acronym": true,
+    "translation": "vacuna contra difteria, tosferina y tétanos",
+    "category": "Medical",
+    "scenario": "Pediatrics",
+    "notes": "Triple vaccine series for child active immunization."
+  },
+  {
+    "id": 202,
+    "term": "discomfort",
+    "is_acronym": false,
+    "translation": "molestia",
+    "category": "Medical",
+    "scenario": "Symptoms & Pain",
+    "notes": "An uncomfortable, annoying, or minor painful body feeling."
+  },
+  {
+    "id": 203,
+    "term": "disorder",
+    "is_acronym": false,
+    "translation": "trastorno",
+    "category": "Medical",
+    "scenario": "General Practice",
+    "notes": "Functional abnormality or health disturbance."
+  },
+  {
+    "id": 204,
+    "term": "Do Not Resuscitate (DNR)",
+    "is_acronym": true,
+    "translation": "orden de no resucitar",
+    "category": "Medical",
+    "scenario": "ER & Trauma",
+    "notes": "Medical directive instructing not to attempt CPR if breathing stops."
+  },
+  {
+    "id": 205,
+    "term": "douching",
+    "is_acronym": false,
+    "translation": "duchas vaginales / lavados vaginales",
+    "category": "Medical",
+    "scenario": "OB/GYN & Women's Health",
+    "notes": "Washing out the inside of the vagina with fluid streams."
+  },
+  {
+    "id": 206,
+    "term": "drainage / discharge",
+    "is_acronym": false,
+    "translation": "drenaje / secreción / supuración",
+    "category": "Medical",
+    "scenario": "Symptoms & Pain",
+    "notes": "Exit of fluid or purulent materials from wounds or cavities."
+  },
+  {
+    "id": 207,
+    "term": "dull pain",
+    "is_acronym": false,
+    "translation": "dolor sordo / dolor sutil / dolor leve",
+    "category": "Medical",
+    "scenario": "Symptoms & Pain",
+    "notes": "Continuous pain that is not sharp or intense, but constant."
+  },
+  {
+    "id": 208,
+    "term": "Durable Power of Attorney for Healthcare",
+    "is_acronym": false,
+    "translation": "poder legal duradero para la atención médica",
+    "category": "Legal",
+    "scenario": "Traffic Law",
+    "notes": "Legal document assigning a healthcare proxy decision maker."
+  },
+  {
+    "id": 209,
+    "term": "earache",
+    "is_acronym": false,
+    "translation": "dolor de oídos",
+    "category": "Medical",
+    "scenario": "Symptoms & Pain",
+    "notes": "Pain localized in the middle or inner ear structure."
+  },
+  {
+    "id": 210,
+    "term": "electrocardiogram (EKG / ECG)",
+    "is_acronym": true,
+    "translation": "electrocardiograma",
+    "category": "Medical",
+    "scenario": "Cardiology",
+    "notes": "Recording of the heart's electrical cycle impulses."
+  },
+  {
+    "id": 211,
+    "term": "electroencephalography (EEG)",
+    "is_acronym": true,
+    "translation": "electroencefalografía / electroencefalograma",
+    "category": "Medical",
+    "scenario": "Neurology",
+    "notes": "Technique for measuring electrical brain currents via the scalp."
+  },
+  {
+    "id": 212,
+    "term": "electrolyte replacement solution",
+    "is_acronym": false,
+    "translation": "suero / solución electrolítica oral o IV",
+    "category": "Medical",
+    "scenario": "Pharmacy",
+    "notes": "Fluids formulated with vital minerals to counteract dehydration."
+  },
+  {
+    "id": 213,
+    "term": "electromyogram (EMG)",
+    "is_acronym": true,
+    "translation": "electromiograma",
+    "category": "Medical",
+    "scenario": "Neurology",
+    "notes": "An electrical recording of muscle activity for neuromuscular diagnosis."
+  },
+  {
+    "id": 214,
+    "term": "embolism",
+    "is_acronym": false,
+    "translation": "automotriz / embolia / embolismo",
+    "category": "Medical",
+    "scenario": "Cardiology",
+    "notes": "Sudden blocking of an artery by a dislodged clot or bubble."
+  },
+  {
+    "id": 215,
+    "term": "engorgement",
+    "is_acronym": false,
+    "translation": "congestión / ingurgitación / hinchazón",
+    "category": "Medical",
+    "scenario": "OB/GYN & Women's Health",
+    "notes": "Vessels completely filled and swollen with fluid (e.g. breasts)."
+  },
+  {
+    "id": 216,
+    "term": "faint",
+    "is_acronym": false,
+    "translation": "desmayarse",
+    "category": "Medical",
+    "scenario": "ER & Trauma",
+    "notes": "To temporarily lose consciousness due to oxygen drop in brain."
+  },
+  {
+    "id": 217,
+    "term": "fainting spell",
+    "is_acronym": false,
+    "translation": "episodio de desmayo / desvanecimiento",
+    "category": "Medical",
+    "scenario": "Symptoms & Pain",
+    "notes": "An occurrence of temporary syncope or loss of consciousness."
+  },
+  {
+    "id": 218,
+    "term": "false labor",
+    "is_acronym": false,
+    "translation": "trabajo de parto falso / falsos dolores de parto",
+    "category": "Medical",
+    "scenario": "OB/GYN & Women's Health",
+    "notes": "Irregular contractions mimicking real labor without cervix dilation."
+  },
+  {
+    "id": 219,
+    "term": "family counselor",
+    "is_acronym": false,
+    "translation": "consejero familiar",
+    "category": "Medical",
+    "scenario": "Staff & Providers",
+    "notes": "A person who provides advice or therapy to families."
+  },
+  {
+    "id": 220,
+    "term": "formulary medication",
+    "is_acronym": false,
+    "translation": "medicamento aprobado / en la lista aprobada",
+    "category": "Insurance",
+    "scenario": "Policies",
+    "notes": "A drug covered directly by your health plan's network benefits."
+  },
+  {
+    "id": 221,
+    "term": "foul-smelling",
+    "is_acronym": false,
+    "translation": "maloliente / olor fétido / pestilente",
+    "category": "Medical",
+    "scenario": "Symptoms & Pain",
+    "notes": "Having an extremely bad or putrid smell."
+  },
+  {
+    "id": 222,
+    "term": "frequent urination",
+    "is_acronym": false,
+    "translation": "frecuencia urinaria / orinar seguido",
+    "category": "Medical",
+    "scenario": "General Practice",
+    "notes": "The urge to pass urine much more often than standard."
+  },
+  {
+    "id": 223,
+    "term": "gagging",
+    "is_acronym": false,
+    "translation": "sensación de náuseas / reflejo nauseabundo",
+    "category": "Medical",
+    "scenario": "Symptoms & Pain",
+    "notes": "Feeling as if one is about to vomit or retch uncontrollably."
+  },
+  {
+    "id": 224,
+    "term": "gallbladder",
+    "is_acronym": false,
+    "translation": "vesícula / vesícula biliar",
+    "category": "Medical",
+    "scenario": "General Practice",
+    "notes": "Muscular sac storing bile underneath the hepatic liver."
+  },
+  {
+    "id": 225,
+    "term": "German measles",
+    "is_acronym": false,
+    "translation": "sarampión alemán / rubeola",
+    "category": "Medical",
+    "scenario": "Infectious Diseases",
+    "notes": "Contagious viral disease dangerous to pregnant mothers' fetuses."
+  },
+  {
+    "id": 226,
+    "term": "groggy",
+    "is_acronym": false,
+    "translation": "aturdido / atontado / grogui",
+    "category": "Medical",
+    "scenario": "Symptoms & Pain",
+    "notes": "Unsteady, dazed, or sluggish from medication or anesthesia."
+  },
+  {
+    "id": 227,
+    "term": "healthcare provider",
+    "is_acronym": false,
+    "translation": "proveedor de atención médica",
+    "category": "Medical",
+    "scenario": "Staff & Providers",
+    "notes": "Professional or group rendering medical attention or treatment."
+  },
+  {
+    "id": 228,
+    "term": "hearing",
+    "is_acronym": false,
+    "translation": "audición / oído",
+    "category": "Medical",
+    "scenario": "General Practice",
+    "notes": "The auditory sense registering sound wave vibrations."
+  },
+  {
+    "id": 229,
+    "term": "hearing aids",
+    "is_acronym": false,
+    "translation": "aparatos auditivos / audífonos / prótesis auditivas",
+    "category": "Medical",
+    "scenario": "Pharmacy",
+    "notes": "Electronic amplification devices placed in the ear."
+  },
+  {
+    "id": 230,
+    "term": "heart failure",
+    "is_acronym": false,
+    "translation": "insuficiencia cardíaca",
+    "category": "Medical",
+    "scenario": "Cardiology",
+    "notes": "Inability of the heart muscle to pump sufficient blood loads."
+  },
+  {
+    "id": 231,
+    "term": "heartburn",
+    "is_acronym": false,
+    "translation": "acidez estomacal / agruras / ardor en el estómago",
+    "category": "Medical",
+    "scenario": "Symptoms & Pain",
+    "notes": "Burning sensation running up the esophagus from gastric fluids."
+  },
+  {
+    "id": 232,
+    "term": "high density lipoproteins (HDL)",
+    "is_acronym": true,
+    "translation": "proteínas de alta densidad (colesterol bueno)",
+    "category": "Medical",
+    "scenario": "Cardiology",
+    "notes": "Good cholesterol pulling lipids out of arterial flows."
+  },
+  {
+    "id": 233,
+    "term": "hives",
+    "is_acronym": false,
+    "translation": "urticaria / ronchas",
+    "category": "Medical",
+    "scenario": "Symptoms & Pain",
+    "notes": "A transient eruption of large, itchy welts on the skin."
+  },
+  {
+    "id": 234,
+    "term": "home care",
+    "is_acronym": false,
+    "translation": "cuidados en el hogar / cuidados a domicilio",
+    "category": "Medical",
+    "scenario": "General Practice",
+    "notes": "Supportive medical services rendered within the home."
+  },
+  {
+    "id": 235,
+    "term": "hospital gown",
+    "is_acronym": false,
+    "translation": "bata de hospital",
+    "category": "Medical",
+    "scenario": "General Practice",
+    "notes": "Loose garments worn by patients for easy procedural access."
+  },
+  {
+    "id": 236,
+    "term": "hot flashes",
+    "is_acronym": false,
+    "translation": "sofocos / bochornos / sofocones / fogajes",
+    "category": "Medical",
+    "scenario": "Symptoms & Pain",
+    "notes": "Sudden waves of high body heat triggered by hormonal shifts."
+  },
+  {
+    "id": 237,
+    "term": "human immunodeficiency virus (HIV)",
+    "is_acronym": true,
+    "translation": "virus de inmunodeficiencia humana (VIH)",
+    "category": "Medical",
+    "scenario": "Infectious Diseases",
+    "notes": "The virus that causes HIV infection and over time leads to AIDS."
+  },
+  {
+    "id": 238,
+    "term": "human papillomavirus (HPV)",
+    "is_acronym": true,
+    "translation": "virus del papiloma humano (VPH)",
+    "category": "Medical",
+    "scenario": "Infectious Diseases",
+    "notes": "Virus responsible for warts and various mucosal mutations."
+  },
+  {
+    "id": 239,
+    "term": "hyperglycemia",
+    "is_acronym": false,
+    "translation": "hiperglicemia / azúcar alta en la sangre",
+    "category": "Medical",
+    "scenario": "Diabetes & Endocrinology",
+    "notes": "Dangerous excess of blood sugar levels typical in diabetics."
+  },
+  {
+    "id": 240,
+    "term": "hyperventilation",
+    "is_acronym": false,
+    "translation": "hiperventilación",
+    "category": "Medical",
+    "scenario": "Respiratory",
+    "notes": "Rapid shallow overbreathing dropping carbon dioxide levels."
+  },
+  {
+    "id": 241,
+    "term": "hypoglycemia",
+    "is_acronym": false,
+    "translation": "hipoglucemia / azúcar baja en la sangre",
+    "category": "Medical",
+    "scenario": "Diabetes & Endocrinology",
+    "notes": "Abnormal dangerous crash of systemic glucose levels."
+  },
+  {
+    "id": 242,
+    "term": "illness",
+    "is_acronym": false,
+    "translation": "enfermedad / afección",
+    "category": "Medical",
+    "scenario": "General Practice",
+    "notes": "Poor general health state or functional sickness."
+  },
+  {
+    "id": 243,
+    "term": "inhaler",
+    "is_acronym": false,
+    "translation": "inhalador",
+    "category": "Medical",
+    "scenario": "Pharmacy",
+    "notes": "Respiratory drug delivery tool delivering mist doses directly."
+  },
+  {
+    "id": 244,
+    "term": "Intensive Care Unit (ICU)",
+    "is_acronym": true,
+    "translation": "unidad de cuidados intensivos (UCI)",
+    "category": "Medical",
+    "scenario": "ER & Trauma",
+    "notes": "Special department providing intensive medical treatment."
+  },
+  {
+    "id": 245,
+    "term": "intrauterine device (IUD)",
+    "is_acronym": true,
+    "translation": "dispositivo intrauterino (DIU)",
+    "category": "Medical",
+    "scenario": "OB/GYN & Women's Health",
+    "notes": "Contraceptive device placed inside the uterus."
+  },
+  {
+    "id": 246,
+    "term": "intravenous (IV)",
+    "is_acronym": true,
+    "translation": "intravenosa / suero",
+    "category": "Medical",
+    "scenario": "ER & Trauma",
+    "notes": "The infusion of liquid substances directly into a vein."
+  },
+  {
+    "id": 247,
+    "term": "jaundice",
+    "is_acronym": false,
+    "translation": "ictericia",
+    "category": "Medical",
+    "scenario": "Symptoms & Pain",
+    "notes": "Yellow tinting of tissues and eyes from high bile counts."
+  },
+  {
+    "id": 248,
+    "term": "joints",
+    "is_acronym": false,
+    "translation": "articulaciones",
+    "category": "Medical",
+    "scenario": "General Practice",
+    "notes": "Skeletal junctions connecting separate bone segments."
+  },
+  {
+    "id": 249,
+    "term": "lab slip",
+    "is_acronym": false,
+    "translation": "hojas de laboratorio / órdenes de laboratorio",
+    "category": "Medical",
+    "scenario": "General Practice",
+    "notes": "Order forms authorizing targeted biochemical testing."
+  },
+  {
+    "id": 250,
+    "term": "lactation consultant",
+    "is_acronym": false,
+    "translation": "especialista/consultora de lactancia",
+    "category": "Medical",
+    "scenario": "Staff & Providers",
+    "notes": "A health professional who provides breastfeeding support."
+  },
+  {
+    "id": 251,
+    "term": "lethargic",
+    "is_acronym": false,
+    "translation": "letárgico/a / decaído/a",
+    "category": "Medical",
+    "scenario": "Symptoms & Pain",
+    "notes": "Abnormally sluggish, listless, or low-energy state."
+  },
+  {
+    "id": 252,
+    "term": "lice",
+    "is_acronym": false,
+    "translation": "piojos",
+    "category": "Medical",
+    "scenario": "Infectious Diseases",
+    "notes": "Small, wingless insect parasites of humans."
+  },
+  {
+    "id": 253,
+    "term": "listless",
+    "is_acronym": false,
+    "translation": "sin ánimo / decaído / apático",
+    "category": "Medical",
+    "scenario": "Symptoms & Pain",
+    "notes": "Lacking energy or disinclined to exert effort."
+  },
+  {
+    "id": 254,
+    "term": "living will",
+    "is_acronym": false,
+    "translation": "testamento vital / instrucciones de no prolongar la vida",
+    "category": "Legal",
+    "scenario": "Traffic Law",
+    "notes": "Document letting people state their wishes for end-of-life care."
+  },
+  {
+    "id": 255,
+    "term": "loose stool",
+    "is_acronym": false,
+    "translation": "heces sueltas / deposición aguada",
+    "category": "Medical",
+    "scenario": "Symptoms & Pain",
+    "notes": "Feces containing a larger than normal amount of fluid."
+  },
+  {
+    "id": 256,
+    "term": "low density lipoproteins (LDL)",
+    "is_acronym": true,
+    "translation": "lipoproteínas de baja densidad (colesterol malo)",
+    "category": "Medical",
+    "scenario": "Cardiology",
+    "notes": "Bad cholesterol associated with an increased risk of heart disease."
+  },
+  {
+    "id": 257,
+    "term": "mastectomy",
+    "is_acronym": false,
+    "translation": "mastectomía",
+    "category": "Medical",
+    "scenario": "OB/GYN & Women's Health",
+    "notes": "Surgery to remove breast tissue to treat or prevent cancer."
+  },
+  {
+    "id": 258,
+    "term": "mastitis",
+    "is_acronym": false,
+    "translation": "mastitis",
+    "category": "Medical",
+    "scenario": "OB/GYN & Women's Health",
+    "notes": "Inflammation of a mammary gland, usually caused by infection."
+  },
+  {
+    "id": 259,
+    "term": "Measles, Mumps, and Rubella (MMR)",
+    "is_acronym": true,
+    "translation": "vacuna contra sarampión, paperas y rubeola",
+    "category": "Medical",
+    "scenario": "Pediatrics",
+    "notes": "Immunization vaccine complex against childhood viral diseases."
+  },
+  {
+    "id": 260,
+    "term": "medical procedures",
+    "is_acronym": false,
+    "translation": "procedimientos médicos",
+    "category": "Medical",
+    "scenario": "General Practice",
+    "notes": "A course of action intended to achieve a clinical result."
+  },
+  {
+    "id": 261,
+    "term": "menstrual cramps",
+    "is_acronym": false,
+    "translation": "cólicos menstruales",
+    "category": "Medical",
+    "scenario": "OB/GYN & Women's Health",
+    "notes": "Low abdominal pain associated with the beginning of menses."
+  },
+  {
+    "id": 262,
+    "term": "midwife",
+    "is_acronym": false,
+    "translation": "partera / comadrona",
+    "category": "Medical",
+    "scenario": "Staff & Providers",
+    "notes": "Professional conducting neonatal deliveries independently."
+  },
+  {
+    "id": 263,
+    "term": "milk pump (breast)",
+    "is_acronym": false,
+    "translation": "extractor de leche / sacaleches / bomba de leche",
+    "category": "Medical",
+    "scenario": "Pharmacy",
+    "notes": "A device for extracting and collecting milk from the breast."
+  },
+  {
+    "id": 264,
+    "term": "miscarriage",
+    "is_acronym": false,
+    "translation": "aborto natural / aborto espontáneo / mal parto",
+    "category": "Medical",
+    "scenario": "OB/GYN & Women's Health",
+    "notes": "Spontaneous loss of pregnancy before the 20th week."
+  },
+  {
+    "id": 265,
+    "term": "nape",
+    "is_acronym": false,
+    "translation": "nuca",
+    "category": "Medical",
+    "scenario": "General Practice",
+    "notes": "The back of the neck."
+  },
+  {
+    "id": 266,
+    "term": "navel / belly button",
+    "is_acronym": false,
+    "translation": "ombligo",
+    "category": "Medical",
+    "scenario": "General Practice",
+    "notes": "The scar in the center of the abdomen where the umbilical cord attached."
+  },
+  {
+    "id": 267,
+    "term": "non-formulary",
+    "is_acronym": false,
+    "translation": "medicamento fuera de la lista aprobada",
+    "category": "Insurance",
+    "scenario": "Policies",
+    "notes": "Drugs not covered by your health plan's basic coverage."
+  },
+  {
+    "id": 268,
+    "term": "nursery (baby)",
+    "is_acronym": false,
+    "translation": "guardería / retén de recién nacidos",
+    "category": "Medical",
+    "scenario": "Pediatrics",
+    "notes": "Hospital department where newborn infants are cared for."
+  },
+  {
+    "id": 269,
+    "term": "outgrow",
+    "is_acronym": false,
+    "translation": "superar / dejar atrás",
+    "category": "Medical",
+    "scenario": "Pediatrics",
+    "notes": "To grow too large for a condition or physical size over time."
+  },
+  {
+    "id": 270,
+    "term": "outlet",
+    "is_acronym": false,
+    "translation": "salida / escape / desahogo",
+    "category": "Medical",
+    "scenario": "General Practice",
+    "notes": "A passage for escape, or a way to express emotions."
+  },
+  {
+    "id": 271,
+    "term": "outpatient",
+    "is_acronym": false,
+    "translation": "paciente ambulatorio / paciente externo",
+    "category": "Medical",
+    "scenario": "General Practice",
+    "notes": "A person treated at a clinic or hospital without staying overnight."
+  },
+  {
+    "id": 272,
+    "term": "over the counter medication",
+    "is_acronym": false,
+    "translation": "medicamento sin receta / de venta libre",
+    "category": "Medical",
+    "scenario": "Pharmacy",
+    "notes": "Medication purchasable without a prescription."
+  },
+  {
+    "id": 273,
+    "term": "perineal",
+    "is_acronym": false,
+    "translation": "perineal / perineo",
+    "category": "Medical",
+    "scenario": "OB/GYN & Women's Health",
+    "notes": "Pertaining to the pelvic cavity base between genitals and anus."
+  },
+  {
+    "id": 274,
+    "term": "Periodic limb movement disorder",
+    "is_acronym": false,
+    "translation": "trastorno de movimiento intermitente de las extremidades",
+    "category": "Medical",
+    "scenario": "Neurology",
+    "notes": "Repetitive movements and cramping during sleep, usually in legs."
+  },
+  {
+    "id": 275,
+    "term": "pinched nerve",
+    "is_acronym": false,
+    "translation": "nervio atrapado / oprimido / nervio pinchado / comprimido",
+    "category": "Medical",
+    "scenario": "Symptoms & Pain",
+    "notes": "Compression of a nerve resulting in damage and sharp pain."
+  },
+  {
+    "id": 276,
+    "term": "podiatrist",
+    "is_acronym": false,
+    "translation": "podólogo / podiatra",
+    "category": "Medical",
+    "scenario": "Staff & Providers",
+    "notes": "A doctor who treats injuries and diseases of the foot."
+  },
+  {
+    "id": 277,
+    "term": "polio",
+    "is_acronym": false,
+    "translation": "polio / poliomielitis",
+    "category": "Medical",
+    "scenario": "Infectious Diseases",
+    "notes": "Infectious viral disease that can cause permanent paralysis."
+  },
+  {
+    "id": 278,
+    "term": "Prenatal Care",
+    "is_acronym": false,
+    "translation": "cuidados prenatales",
+    "category": "Medical",
+    "scenario": "OB/GYN & Women's Health",
+    "notes": "Preventive healthcare providing regular check-ups during pregnancy."
+  },
+  {
+    "id": 279,
+    "term": "preoperative",
+    "is_acronym": false,
+    "translation": "preoperatorio",
+    "category": "Medical",
+    "scenario": "General Practice",
+    "notes": "Occurring in the period immediately before a surgical operation."
+  },
+  {
+    "id": 280,
+    "term": "prognosis",
+    "is_acronym": false,
+    "translation": "pronóstico",
+    "category": "Medical",
+    "scenario": "General Practice",
+    "notes": "A doctor's opinion about how a patient will recover from an illness."
+  },
+  {
+    "id": 281,
+    "term": "prostate (gland)",
+    "is_acronym": false,
+    "translation": "próstata",
+    "category": "Medical",
+    "scenario": "General Practice",
+    "notes": "An organ found in men that produces semen fluids."
+  },
+  {
+    "id": 282,
+    "term": "pump",
+    "is_acronym": false,
+    "translation": "bomba",
+    "category": "Medical",
+    "scenario": "Pharmacy",
+    "notes": "A device that forces liquid in or out (e.g. insulin pump)."
+  },
+  {
+    "id": 283,
+    "term": "redness",
+    "is_acronym": false,
+    "translation": "enrojecimiento / rojez",
+    "category": "Medical",
+    "scenario": "Symptoms & Pain",
+    "notes": "Reddish skin color typical of localized irritation or infection."
+  },
+  {
+    "id": 284,
+    "term": "refills",
+    "is_acronym": false,
+    "translation": "resurtidos / resurtir",
+    "category": "Medical",
+    "scenario": "Pharmacy",
+    "notes": "A second or later filling of a medical prescription."
+  },
+  {
+    "id": 285,
+    "term": "regular bowel",
+    "is_acronym": false,
+    "translation": "evacuaciones intestinales normales",
+    "category": "Medical",
+    "scenario": "General Practice",
+    "notes": "Able to have normal bowel movements, not constipated."
+  },
+  {
+    "id": 286,
+    "term": "salpingectomy",
+    "is_acronym": false,
+    "translation": "salpingectomía",
+    "category": "Medical",
+    "scenario": "OB/GYN & Women's Health",
+    "notes": "Surgical removal of the fallopian tubes."
+  },
+  {
+    "id": 287,
+    "term": "scar",
+    "is_acronym": false,
+    "translation": "cicatriz",
+    "category": "Medical",
+    "scenario": "Symptoms & Pain",
+    "notes": "A mark left on your skin after a wound heals."
+  },
+  {
+    "id": 288,
+    "term": "shake",
+    "is_acronym": false,
+    "translation": "agitar / sacudir / temblar",
+    "category": "Medical",
+    "scenario": "Symptoms & Pain",
+    "notes": "To move quickly back and forth with short movements."
+  },
+  {
+    "id": 289,
+    "term": "sharp pain",
+    "is_acronym": false,
+    "translation": "dolor agudo / puntada / punzante",
+    "category": "Medical",
+    "scenario": "Symptoms & Pain",
+    "notes": "Severe, sudden, intense physical discomfort."
+  },
+  {
+    "id": 300,
+    "term": "sores",
+    "is_acronym": false,
+    "translation": "llagas / úlceras",
+    "category": "Medical",
+    "scenario": "Symptoms & Pain",
+    "notes": "An open skin lesion, wound, or ulcer."
+  },
+  {
+    "id": 301,
+    "term": "spit out",
+    "is_acronym": false,
+    "translation": "escupir",
+    "category": "Medical",
+    "scenario": "General Practice",
+    "notes": "Expelling material or phlegm from the mouth explosives."
+  },
+  {
+    "id": 302,
+    "term": "splint",
+    "is_acronym": false,
+    "translation": "entablillar / férula",
+    "category": "Medical",
+    "scenario": "Pharmacy",
+    "notes": "A rigid device used to prevent motion of a joint or fractured bone."
+  },
+  {
+    "id": 303,
+    "term": "stabbing pain",
+    "is_acronym": false,
+    "translation": "dolor punzante",
+    "category": "Medical",
+    "scenario": "Symptoms & Pain",
+    "notes": "A penetrating, piercing, acute pain."
+  },
+  {
+    "id": 304,
+    "term": "staples",
+    "is_acronym": false,
+    "translation": "grapas (quirúrgicas)",
+    "category": "Medical",
+    "scenario": "General Practice",
+    "notes": "Stainless steel units used to close a surgical incision."
+  },
+  {
+    "id": 305,
+    "term": "stiffness",
+    "is_acronym": false,
+    "translation": "rigidez",
+    "category": "Medical",
+    "scenario": "Symptoms & Pain",
+    "notes": "A feeling of tension and contraction in the muscles."
+  },
+  {
+    "id": 306,
+    "term": "stool softener",
+    "is_acronym": false,
+    "translation": "ablandador de heces / ablandador fecal",
+    "category": "Medical",
+    "scenario": "Pharmacy",
+    "notes": "A type of laxative which adds fluid to stool to soften it."
+  },
+  {
+    "id": 307,
+    "term": "surgical wound",
+    "is_acronym": false,
+    "translation": "incisión quirúrgica / herida quirúrgica",
+    "category": "Medical",
+    "scenario": "General Practice",
+    "notes": "A surgical incision to any of the tissues of the body."
+  },
+  {
+    "id": 308,
+    "term": "swab",
+    "is_acronym": false,
+    "translation": "hisopo / bastoncillos de algodón",
+    "category": "Medical",
+    "scenario": "Pharmacy",
+    "notes": "Soft material on a stick used for applying medicine or cleaning."
+  },
+  {
+    "id": 309,
+    "term": "syringes",
+    "is_acronym": false,
+    "translation": "jeringas / inyectadoras",
+    "category": "Medical",
+    "scenario": "Pharmacy",
+    "notes": "Devices made of a hollow tube and needle for fluid transfers."
+  },
+  {
+    "id": 310,
+    "term": "tearing",
+    "is_acronym": false,
+    "translation": "desgarramiento / desgarro / ruptura",
+    "category": "Medical",
+    "scenario": "Symptoms & Pain",
+    "notes": "To cut or injure a muscle or skin tissue violently."
+  },
+  {
+    "id": 311,
+    "term": "tenderness",
+    "is_acronym": false,
+    "translation": "sensibilidad",
+    "category": "Medical",
+    "scenario": "Symptoms & Pain",
+    "notes": "Pain or discomfort when an affected area is touched."
+  },
+  {
+    "id": 312,
+    "term": "thigh",
+    "is_acronym": false,
+    "translation": "muslo",
+    "category": "Medical",
+    "scenario": "General Practice",
+    "notes": "The part of the human leg between the hip and the knee."
+  },
+  {
+    "id": 313,
+    "term": "thyroid gland",
+    "is_acronym": false,
+    "translation": "glándula tiroides / glándula tiroidea",
+    "category": "Medical",
+    "scenario": "Diabetes & Endocrinology",
+    "notes": "Small gland in the neck that regulates growth and metabolism."
+  },
+  {
+    "id": 314,
+    "term": "tiptoes",
+    "is_acronym": false,
+    "translation": "puntillas de los pies",
+    "category": "Medical",
+    "scenario": "General Practice",
+    "notes": "With your toes touching the ground and your heels raised up."
+  },
+  {
+    "id": 315,
+    "term": "toes",
+    "is_acronym": false,
+    "translation": "dedos de los pies",
+    "category": "Medical",
+    "scenario": "General Practice",
+    "notes": "The digits of the feet."
+  },
+  {
+    "id": 316,
+    "term": "triage nurse",
+    "is_acronym": false,
+    "translation": "enfermera de clasificación / enfermera de triaje",
+    "category": "Medical",
+    "scenario": "Staff & Providers",
+    "notes": "ER nurse assessing patients and ordering priority care urgency."
+  },
+  {
+    "id": 317,
+    "term": "uneasy / fussy",
+    "is_acronym": false,
+    "translation": "inquieto(a) / intranquilo(a) / incómodo(a)",
+    "category": "Medical",
+    "scenario": "Symptoms & Pain",
+    "notes": "Causing or feeling anxiety, restless state common in children."
+  },
+  {
+    "id": 318,
+    "term": "urinate",
+    "is_acronym": false,
+    "translation": "orinar",
+    "category": "Medical",
+    "scenario": "General Practice",
+    "notes": "To excrete liquid waste through the urethra."
+  },
+  {
+    "id": 319,
+    "term": "urine",
+    "is_acronym": false,
+    "translation": "orina",
+    "category": "Medical",
+    "scenario": "General Practice",
+    "notes": "Waste liquid collected in the bladder."
+  },
+  {
+    "id": 320,
+    "term": "wart",
+    "is_acronym": false,
+    "translation": "verruga",
+    "category": "Medical",
+    "scenario": "General Practice",
+    "notes": "A small, hard lump on the skin caused by a virus."
+  },
+  {
+    "id": 321,
+    "term": "weak",
+    "is_acronym": false,
+    "translation": "débil / debilidad",
+    "category": "Medical",
+    "scenario": "Symptoms & Pain",
+    "notes": "Lacking physical strength or structural energy."
+  },
+  {
+    "id": 322,
+    "term": "weight",
+    "is_acronym": false,
+    "translation": "peso",
+    "category": "Medical",
+    "scenario": "General Practice",
+    "notes": "A measure of the heaviness of a person or object."
+  },
+  {
+    "id": 323,
+    "term": "yeast infection",
+    "is_acronym": false,
+    "translation": "candidiasis / infección de hongos",
+    "category": "Medical",
+    "scenario": "OB/GYN & Women's Health",
+    "notes": "Localized fungal infection caused by Candida."
+  },
+  {
+    "id": 324,
+    "term": "shingles vaccine",
+    "is_acronym": false,
+    "translation": "vacuna contra la culebrilla",
+    "category": "Medical",
+    "scenario": "Pharmacy",
+    "notes": "Vaccine to prevent herpes zoster breaks."
+  },
+  {
+    "id": 325,
+    "term": "yellowish",
+    "is_acronym": false,
+    "translation": "amarillento/a",
+    "category": "Medical",
+    "scenario": "Symptoms & Pain",
+    "notes": "Tint showing jaundice markers in tissues."
+  },
+  {
+    "id": 326,
+    "term": "sunbathes",
+    "is_acronym": false,
+    "translation": "tomar el sol / baños de sol",
+    "category": "Medical",
+    "scenario": "General Practice",
+    "notes": "Exposing the body directly to sun rays."
+  },
+  {
+    "id": 327,
+    "term": "DEPO shot",
+    "is_acronym": false,
+    "translation": "inyección anticonceptiva Depo",
+    "category": "Medical",
+    "scenario": "OB/GYN & Women's Health",
+    "notes": "Injectable hormonal contraceptive given every 3 months."
+  },
+  {
+    "id": 328,
+    "term": "burp",
+    "is_acronym": false,
+    "translation": "eructar / hacer provecho",
+    "category": "Medical",
+    "scenario": "Pediatrics",
+    "notes": "Releasing gas from the stomach via oral channels."
+  },
+  {
+    "id": 329,
+    "term": "latching",
+    "is_acronym": false,
+    "translation": "agarre / prenderse al pecho",
+    "category": "Medical",
+    "scenario": "Pediatrics",
+    "notes": "How a baby attaches onto the breast to nurse cleanly."
+  },
+  {
+    "id": 330,
+    "term": "gauze pads",
+    "is_acronym": false,
+    "translation": "almohadillas de gasa / gasas",
+    "category": "Medical",
+    "scenario": "Pharmacy",
+    "notes": "Sterile cloth dressing pads used for wound care."
+  },
+  {
+    "id": 331,
+    "term": "cataract surgery",
+    "is_acronym": false,
+    "translation": "cirugía de cataratas",
+    "category": "Medical",
+    "scenario": "General Practice",
+    "notes": "Lens removal procedure replacing it with artificial ones."
+  },
+  {
+    "id": 332,
+    "term": "full coverage",
+    "is_acronym": false,
+    "translation": "cobertura completa / cobertura total",
+    "category": "Insurance",
+    "scenario": "Policies",
+    "notes": "Includes auto liability, collision, and comprehensive layers."
+  },
+  {
+    "id": 333,
+    "term": "adjuster",
+    "is_acronym": false,
+    "translation": "ajustador (de reclamos)",
+    "category": "Insurance",
+    "scenario": "Claims",
+    "notes": "Claims investigators tracking coverage liability bounds."
+  },
+  {
+    "id": 334,
+    "term": "appraiser",
+    "is_acronym": false,
+    "translation": "tasador / evaluador",
+    "category": "Insurance",
+    "scenario": "Claims",
+    "notes": "Assesses damage value of hit vehicles or properties."
+  },
+  {
+    "id": 335,
+    "term": "case manager",
+    "is_acronym": false,
+    "translation": "administrador del caso",
+    "category": "Insurance",
+    "scenario": "Claims",
+    "notes": "Professional overseeing care plans or insurance files."
+  },
+  {
+    "id": 336,
+    "term": "Registered Nurse (RN)",
+    "is_acronym": true,
+    "translation": "enfermera registrada",
+    "category": "Medical",
+    "scenario": "Staff & Providers",
+    "notes": "Licensed graduated nursing professional backing clinical care."
+  },
+  {
+    "id": 337,
+    "term": "comprehensive coverage",
+    "is_acronym": false,
+    "translation": "cobertura contra todo riesgo / cobertura integral",
+    "category": "Insurance",
+    "scenario": "Policies",
+    "notes": "Auto insurance covering non-collision damage metrics (theft, fire)."
+  },
+  {
+    "id": 338,
+    "term": "AARP",
+    "is_acronym": true,
+    "translation": "Asociación Americana de Personas Jubiladas",
+    "category": "Insurance",
+    "scenario": "Policies",
+    "notes": "Interest entity coordinating health and coverages for seniors."
+  },
+  {
+    "id": 340,
+    "term": "foreclosure",
+    "is_acronym": false,
+    "translation": "ejecución hipotecaria / embargo hipotecario",
+    "category": "Banking",
+    "scenario": "Loans & Collections",
+    "notes": "Legal recovery of home property due to loan default."
+  },
+  {
+    "id": 341,
+    "term": "escrow account",
+    "is_acronym": false,
+    "translation": "cuenta de plica / cuenta de depósito en garantía",
+    "category": "Banking",
+    "scenario": "Accounts",
+    "notes": "Separate account holding cash for annual tax and insurance drops."
+  },
+  {
+    "id": 342,
+    "term": "cane",
+    "is_acronym": false,
+    "translation": "bastón",
+    "category": "Medical",
+    "scenario": "Pharmacy",
+    "notes": "Single point walking assist stick aid."
+  },
+  {
+    "id": 343,
+    "term": "crutches",
+    "is_acronym": false,
+    "translation": "muletas",
+    "category": "Medical",
+    "scenario": "Pharmacy",
+    "notes": "Underarm mobility frames for non-weight-bearing legs."
+  },
+  {
+    "id": 344,
+    "term": "walkers",
+    "is_acronym": false,
+    "translation": "andadores / andadoras",
+    "category": "Medical",
+    "scenario": "Pharmacy",
+    "notes": "Rigid support frames assisting balance while walking."
+  },
+  {
+    "id": 345,
+    "term": "lifts (patient lifts)",
+    "is_acronym": false,
+    "translation": "elevadores de pacientes / grúas para pacientes",
+    "category": "Medical",
+    "scenario": "Pharmacy",
+    "notes": "Mechanical hoisting devices transferring immobile users."
+  },
+  {
+    "id": 346,
+    "term": "pressure mattresses",
+    "is_acronym": false,
+    "translation": "colchones antiescaras / de presión alterna",
+    "category": "Medical",
+    "scenario": "Pharmacy",
+    "notes": "Dynamic air cell mattresses preventing pressure ulcers."
+  },
+  {
+    "id": 347,
+    "term": "ankle stabilizing brace",
+    "is_acronym": false,
+    "translation": "férula/tobillera estabilizadora de tobillo",
+    "category": "Medical",
+    "scenario": "Pharmacy",
+    "notes": "Sleeve protecting or immobilizing damaged ankle lines."
+  },
+  {
+    "id": 348,
+    "term": "eardrum",
+    "is_acronym": false,
+    "translation": "tímpano",
+    "category": "Medical",
+    "scenario": "General Practice",
+    "notes": "Auditory membrane responding to sound waves."
+  },
+  {
+    "id": 349,
+    "term": "coronary bypass",
+    "is_acronym": false,
+    "translation": "bypass coronario / derivación coronaria",
+    "category": "Medical",
+    "scenario": "Cardiology",
+    "notes": "Surgical grafting restoring flow around cardiac artery blocks."
+  },
+  {
+    "id": 350,
+    "term": "lean meats",
+    "is_acronym": false,
+    "translation": "carnes magras",
+    "category": "Medical",
+    "scenario": "General Practice",
+    "notes": "Proteins hosting low systemic fat counts."
+  },
+  {
+    "id": 351,
+    "term": "whole grains",
+    "is_acronym": false,
+    "translation": "granos enteros / cereales integrales",
+    "category": "Medical",
+    "scenario": "General Practice",
+    "notes": "Unrefined grains containing entire kernel assets."
+  },
+  {
+    "id": 352,
+    "term": "heart-healthy meals",
+    "is_acronym": false,
+    "translation": "comidas saludables para el corazón",
+    "category": "Medical",
+    "scenario": "Cardiology",
+    "notes": "Salt and fat controlled menus protecting vascular systems."
+  },
+  {
+    "id": 353,
+    "term": "ganglios linfáticos",
+    "is_acronym": false,
+    "translation": "lymph nodes",
+    "category": "Medical",
+    "scenario": "General Practice",
+    "notes": "Immune filter beads tracking infections inside tissue channels."
+  },
+  {
+    "id": 354,
+    "term": "médula ósea",
+    "is_acronym": false,
+    "translation": "bone marrow",
+    "category": "Medical",
+    "scenario": "General Practice",
+    "notes": "Spongy internal bone core manufacturing blood cells."
+  },
+  {
+    "id": 355,
+    "term": "corpus callosum",
+    "is_acronym": false,
+    "translation": "cuerpo calloso",
+    "category": "Medical",
+    "scenario": "Neurology",
+    "notes": "Nerve strand bands bridging brain hemisphere paths."
+  },
+  {
+    "id": 356,
+    "term": "prolapse",
+    "is_acronym": false,
+    "translation": "prolapso",
+    "category": "Medical",
+    "scenario": "OB/GYN & Women's Health",
+    "notes": "Organs dropping or slipping out from normal bounds."
+  },
+  {
+    "id": 357,
+    "term": "treadmill",
+    "is_acronym": false,
+    "translation": "caminadora / cinta de correr",
+    "category": "Medical",
+    "scenario": "Cardiology",
+    "notes": "Running belt equipment used in cardiac stress tests."
+  },
+  {
+    "id": 358,
+    "term": "vascular doppler",
+    "is_acronym": false,
+    "translation": "doppler vascular",
+    "category": "Medical",
+    "scenario": "Cardiology",
+    "notes": "Ultrasound scans assessing velocity limits inside blood vessels."
+  },
+  {
+    "id": 359,
+    "term": "insulin pump",
+    "is_acronym": false,
+    "translation": "bomba de insulina",
+    "category": "Medical",
+    "scenario": "Diabetes & Endocrinology",
+    "notes": "Automated system providing constant micro glucose controls."
+  },
+  {
+    "id": 360,
+    "term": "orthotic insoles",
+    "is_acronym": false,
+    "translation": "plantillas ortopédicas",
+    "category": "Medical",
+    "scenario": "Pharmacy",
+    "notes": "Insertions stabilizing balance mechanics inside shoes."
+  },
+  {
+    "id": 361,
+    "term": "test strip",
+    "is_acronym": false,
+    "translation": "tira reactiva (para pruebas)",
+    "category": "Medical",
+    "scenario": "Diabetes & Endocrinology",
+    "notes": "Chemical test sheets reading blood glucose counts."
+  },
+  {
+    "id": 362,
+    "term": "limbs",
+    "is_acronym": false,
+    "translation": "extremidades (brazos y piernas)",
+    "category": "Medical",
+    "scenario": "General Practice",
+    "notes": "The arms or legs of an individual."
+  },
+  {
+    "id": 363,
+    "term": "commode chair",
+    "is_acronym": false,
+    "translation": "silla inodoro / cómodo",
+    "category": "Medical",
+    "scenario": "Pharmacy",
+    "notes": "Portable toilet frames placed at bedsides for emergencies."
+  },
+  {
+    "id": 364,
+    "term": "guard rails",
+    "is_acronym": false,
+    "translation": "barandillas (de la cama) / rieles de seguridad",
+    "category": "Medical",
+    "scenario": "General Practice",
+    "notes": "Side bars blocking body falls out of hospital bed structures."
+  },
+  {
+    "id": 365,
+    "term": "scoot up",
+    "is_acronym": false,
+    "translation": "deslizarse hacia arriba",
+    "category": "Medical",
+    "scenario": "General Practice",
+    "notes": "Bed command ordering users to slide themselves higher up."
+  },
+  {
+    "id": 366,
+    "term": "scoot up",
+    "is_acronym": false,
+    "translation": "deslizarse hacia arriba",
+    "category": "Medical",
+    "scenario": "General Practice",
+    "notes": "Bed command ordering users to slide themselves higher up."
+  },
+  {
+    "id": 367,
+    "term": "nostril",
+    "is_acronym": false,
+    "translation": "fosa nasal",
+    "category": "Medical",
+    "scenario": "General Practice",
+    "notes": "External openings heading straight into nasal cavity plumbing."
+  },
+  {
+    "id": 368,
+    "term": "care navigator",
+    "is_acronym": false,
+    "translation": "orientador de atención médica",
+    "category": "Medical",
+    "scenario": "Staff & Providers",
+    "notes": "Professional routing users across complex clinical paths smoothly."
+  },
+  {
+    "id": 369,
+    "term": "home attendant",
+    "is_acronym": false,
+    "translation": "asistente de cuidado en el hogar",
+    "category": "Medical",
+    "scenario": "Staff & Providers",
+    "notes": "Caregiver providing personal care assistance within homes."
+  },
+  {
+    "id": 370,
+    "term": "invoice",
+    "is_acronym": false,
+    "translation": "factura",
+    "category": "Banking",
+    "scenario": "Accounts",
+    "notes": "Itemized bill showing transactional balance lines."
+  },
+  {
+    "id": 372,
+    "term": "repossession",
+    "is_acronym": false,
+    "translation": "recuperación / embargo",
+    "category": "Banking",
+    "scenario": "Loans & Collections",
+    "notes": "Forced collateral collections due to unpaid finance default."
+  },
+  {
+    "id": 373,
+    "term": "mood swings",
+    "is_acronym": false,
+    "translation": "cambios de humor / altibajos emocionales",
+    "category": "Medical",
+    "scenario": "Symptoms & Pain",
+    "notes": "Rapid intense emotional state transformations."
+  },
+  {
+    "id": 374,
+    "term": "Magnetic Resonance Imaging (MRI)",
+    "is_acronym": true,
+    "translation": "imágenes de resonancia magnética",
+    "category": "Medical",
+    "scenario": "General Practice",
+    "notes": "High contrast soft tissue imaging field mapping via magnets."
+  },
+  {
+    "id": 375,
+    "term": "Overdose (OD)",
+    "is_acronym": true,
+    "translation": "sobredosis",
+    "category": "Medical",
+    "scenario": "ER & Trauma",
+    "notes": "Excessive input of toxic chemical doses crashing biology."
+  },
+  {
+    "id": 376,
+    "term": "Operating Room (OR)",
+    "is_acronym": true,
+    "translation": "quirófano / sala de operaciones",
+    "category": "Medical",
+    "scenario": "ER & Trauma",
+    "notes": "Sterile clinical environment for active surgical operations."
+  },
+  {
+    "id": 377,
+    "term": "Urinary Tract Infection (UTI)",
+    "is_acronym": true,
+    "translation": "infección de las vías urinarias / del tracto urinario",
+    "category": "Medical",
+    "scenario": "General Practice",
+    "notes": "Microbial tracking inside bladder or renal plumbing fields."
+  },
+  {
+    "id": 378,
+    "term": "Sexually Transmitted Disease (STD)",
+    "is_acronym": true,
+    "translation": "enfermedad de transmisión sexual (ETS)",
+    "category": "Medical",
+    "scenario": "Infectious Diseases",
+    "notes": "Pathogenic tracks spreading across intimate contacts."
+  },
+  {
+    "id": 380,
+    "term": "Venereal Disease (VD)",
+    "is_acronym": true,
+    "translation": "enfermedad venérea",
+    "category": "Medical",
+    "scenario": "Infectious Diseases",
+    "notes": "Classic categorization format for systemic STDs tracks."
+  },
+  {
+    "id": 381,
+    "term": "World Health Organization (WHO)",
+    "is_acronym": true,
+    "translation": "Organización Mundial de la Salud (OMS)",
+    "category": "Medical",
+    "scenario": "General Practice",
+    "notes": "UN global public health security tracking entity."
+  },
+  {
+    "id": 382,
+    "term": "Complete Blood Count (CBC)",
+    "is_acronym": true,
+    "translation": "conteo sanguíneo completo / biometría hemática",
+    "category": "Medical",
+    "scenario": "General Practice",
+    "notes": "Profile panel quantifying cellular assets inside blood drops."
+  },
+  {
+    "id": 383,
+    "term": "Complete Bed Rest (CBR)",
+    "is_acronym": true,
+    "translation": "reposo absoluto en cama",
+    "category": "Medical",
+    "scenario": "General Practice",
+    "notes": "Instructions limiting body motions strictly to bed confinement states."
+  },
+  {
+    "id": 384,
+    "term": "Controlled Release (CR)",
+    "is_acronym": true,
+    "translation": "liberación controlada",
+    "category": "Medical",
+    "scenario": "Pharmacy",
+    "notes": "Dissolving drug release mechanisms controlling dosing timelines."
+  },
+  {
+    "id": 385,
+    "term": "Dead on Arrival (DOA)",
+    "is_acronym": true,
+    "translation": "muerto al llegar",
+    "category": "Medical",
+    "scenario": "ER & Trauma",
+    "notes": "Zero biological life signals detected upon ambulance drop."
+  },
+  {
+    "id": 386,
+    "term": "Diagnosis (diag)",
+    "is_acronym": true,
+    "translation": "diagnóstico",
+    "category": "Medical",
+    "scenario": "General Practice",
+    "notes": "The systematic identification of a structural disease nature."
+  },
+  {
+    "id": 387,
+    "term": "Physician Assistant (PA)",
+    "is_acronym": true,
+    "translation": "asistente médico",
+    "category": "Medical",
+    "scenario": "Staff & Providers",
+    "notes": "Mid-level clinician executing care plans under doctor bounds."
+  },
+  {
+    "id": 388,
+    "term": "Fasting Blood Sugar (FBS)",
+    "is_acronym": true,
+    "translation": "nivel de azúcar en la sangre en ayunas",
+    "category": "Medical",
+    "scenario": "Diabetes & Endocrinology",
+    "notes": "Glucose readings captured after an 8-12 hour fasting block."
+  },
+  {
+    "id": 390,
+    "term": "Intravenous (IV)",
+    "is_acronym": true,
+    "translation": "intravenosa / vía intravenosa",
+    "category": "Medical",
+    "scenario": "ER & Trauma",
+    "notes": "Direct plumbing of fluids into systemic vein lanes."
+  },
+  {
+    "id": 391,
+    "term": "White Blood Cell (WBC)",
+    "is_acronym": true,
+    "translation": "glóbulos blancos / leucocitos",
+    "category": "Medical",
+    "scenario": "General Practice",
+    "notes": "Immune components battling local or systemic microbial tracks."
+  },
+  {
+    "id": 392,
+    "term": "Within Normal Limits (WNL)",
+    "is_acronym": true,
+    "translation": "dentro de los límites normales",
+    "category": "Medical",
+    "scenario": "General Practice",
+    "notes": "Shortcuts showing test outputs sit in safe range parameters."
+  },
+  {
+    "id": 393,
+    "term": "Neonatal Intensive Care Unit (NICU)",
+    "is_acronym": true,
+    "translation": "unidad de cuidados intensivos neonatales",
+    "category": "Medical",
+    "scenario": "Pediatrics",
+    "notes": "Advanced ICU zones tracking premature newborn indicators."
+  },
+  {
+    "id": 394,
+    "term": "Nurse Practitioner (NP)",
+    "is_acronym": true,
+    "translation": "enfermera especializada / enfermera facultativa",
+    "category": "Medical",
+    "scenario": "Staff & Providers",
+    "notes": "Advanced nurse running clinical paths and treatments independently."
+  },
+  {
+    "id": 395,
+    "term": "anguished",
+    "is_acronym": false,
+    "translation": "angustiado",
+    "category": "Medical",
+    "scenario": "Symptoms & Pain",
+    "notes": "Somatic or psychological extreme pain feedback descriptor."
+  },
+  {
+    "id": 396,
+    "term": "bewildered",
+    "is_acronym": false,
+    "translation": "desconcertado / perplejo / confundido",
+    "category": "Medical",
+    "scenario": "Symptoms & Pain",
+    "notes": "Disoriented mental state indicator descriptor."
+  },
+  {
+    "id": 397,
+    "term": "cold sore",
+    "is_acronym": false,
+    "translation": "ulceración bucal / fuego bucal",
+    "category": "Medical",
+    "scenario": "Symptoms & Pain",
+    "notes": "Herpetic breakouts creating painful sores near lips."
+  },
+  {
+    "id": 398,
+    "term": "gnawing pain",
+    "is_acronym": false,
+    "translation": "dolor persistente / dolor roedor",
+    "category": "Medical",
+    "scenario": "Symptoms & Pain",
+    "notes": "Somatic description mimicking grinding or chewing tissue feels."
+  },
+  {
+    "id": 400,
+    "term": "pang",
+    "is_acronym": false,
+    "translation": "punzada / dolor agudo repentino y breve",
+    "category": "Medical",
+    "scenario": "Symptoms & Pain",
+    "notes": "Sudden transient piercing somatic pain bursts."
+  },
+  {
+    "id": 401,
+    "term": "perspiration",
+    "is_acronym": false,
+    "translation": "transpiración / sudoración / sudor",
+    "category": "Medical",
+    "scenario": "Symptoms & Pain",
+    "notes": "Fluid sweat filtering via dermal loops under stress/heat."
+  },
+  {
+    "id": 402,
+    "term": "productive cough",
+    "is_acronym": false,
+    "translation": "tos con flema / tos productiva",
+    "category": "Medical",
+    "scenario": "Respiratory",
+    "notes": "Coughing actions successfully removing mucus loads from airways."
+  },
+  {
+    "id": 403,
+    "term": "scraping / scrape",
+    "is_acronym": false,
+    "translation": "raspadura / raspón",
+    "category": "Medical",
+    "scenario": "Symptoms & Pain",
+    "notes": "Superficial skin loss due to abrasive friction contacts."
+  },
+  {
+    "id": 404,
+    "term": "sickening pain",
+    "is_acronym": false,
+    "translation": "dolor que provoca náuseas",
+    "category": "Medical",
+    "scenario": "Symptoms & Pain",
+    "notes": "Severe somatic pain triggering autonomic retch responses."
+  },
+  {
+    "id": 405,
+    "term": "slight pain",
+    "is_acronym": false,
+    "translation": "dolor leve / dolor mínimo",
+    "category": "Medical",
+    "scenario": "Symptoms & Pain",
+    "notes": "Low indexing margins on pain evaluation scales."
+  },
+  {
+    "id": 406,
+    "term": "sore (feeling)",
+    "is_acronym": false,
+    "translation": "adolorido",
+    "category": "Medical",
+    "scenario": "Symptoms & Pain",
+    "notes": "Generalized somatic ache fields."
+  },
+  {
+    "id": 407,
+    "term": "Durable Medical Equipment (DME)",
+    "is_acronym": true,
+    "translation": "equipo médico duradero",
+    "category": "Medical",
+    "scenario": "Pharmacy",
+    "notes": "Prescribed equipment reusable across patients (beds, chairs)."
+  },
+  {
+    "id": 408,
+    "term": "Chronic Obstructive Pulmonary Disease (COPD)",
+    "is_acronym": true,
+    "translation": "enfermedad pulmonar obstructiva crónica (EPOC)",
+    "category": "Medical",
+    "scenario": "Respiratory",
+    "notes": "Chronic lung condition causing blocked airflow metrics."
+  },
+  {
+    "id": 410,
+    "term": "Polycystic Ovary Syndrome (PCOS)",
+    "is_acronym": true,
+    "translation": "síndrome de ovario poliquístico (SOP)",
+    "category": "Medical",
+    "scenario": "OB/GYN & Women's Health",
+    "notes": "Hormonal imbalance causing ovarian cystic clusters."
+  },
+  {
+    "id": 411,
+    "term": "Continuous Positive Airway Pressure (CPAP)",
+    "is_acronym": true,
+    "translation": "dispositivo CPAP",
+    "category": "Medical",
+    "scenario": "Respiratory",
+    "notes": "Airway pressure device keeping channels open in sleep apnea cycles."
   }
 ]
