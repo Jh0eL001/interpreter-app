@@ -1,0 +1,195 @@
+/* frontend/css/style.css */
+
+/* ==========================================================================
+   1. VARIABLES & RESET (True Dark Mode Palette)
+   ========================================================================== */
+:root {
+  --bg-main: #0b0f19;
+  --bg-card: #141b2d;
+  --bg-input: #1e2640;
+  --text-main: #f8fafc;
+  --text-muted: #94a3b8;
+  --primary: #3b82f6;
+
+  --border-medical: #0ea5e9;
+  --border-legal: #f59e0b;
+  --border-insurance: #10b981;
+  --border-banking: #6366f1;
+  --border-correctional: #ec4899;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  /* 🎯 FUENTE ACTUALIZADA: Combinación ultra-limpia para lectura rápida */
+  font-family:
+    "Geist",
+    "Inter",
+    system-ui,
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    Roboto,
+    sans-serif;
+  letter-spacing: -0.02em; /* Letras un pelo más juntas para capturar la palabra de un vistazo */
+}
+
+body {
+  background-color: var(--bg-main);
+  color: var(--text-main);
+  padding: 1rem;
+  display: flex;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+/* ==========================================================================
+   2. LAYOUT CONTAINER
+   ========================================================================== */
+.app-container {
+  width: 100%;
+  max-width: 700px;
+}
+
+header {
+  margin-bottom: 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+}
+
+header h1 {
+  font-size: 1.1rem;
+  color: var(--text-muted);
+  font-weight: 600;
+}
+
+header p {
+  display: none;
+}
+
+/* ==========================================================================
+   3. OPTIMIZED SEARCH INPUT
+   ========================================================================== */
+.search-box {
+  margin-bottom: 1.2rem;
+}
+
+#search-input {
+  width: 100%;
+  padding: 0.8rem 1.2rem;
+  font-size: 1.1rem;
+  border: 2px solid #2e3a5f;
+  border-radius: 10px;
+  background-color: var(--bg-input);
+  color: var(--text-main);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+  transition: all 0.15s ease;
+}
+
+#search-input::placeholder {
+  color: #52628a;
+}
+
+#search-input:focus {
+  outline: none;
+  border-color: var(--primary);
+  background-color: #242f52;
+  box-shadow: 0 0 0 4px rgba(59, 130, 246, 0.2);
+}
+
+/* ==========================================================================
+   4. CARDS (Balanced Reading Architecture)
+   ========================================================================== */
+.results-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.8rem;
+}
+
+.card {
+  background-color: var(--bg-card);
+  border-radius: 10px;
+  padding: 1rem 1.4rem;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+  border-left: 5px solid #475569;
+}
+
+.card.medical {
+  border-left-color: var(--border-medical);
+}
+.card.legal {
+  border-left-color: var(--border-legal);
+}
+.card.insurance {
+  border-left-color: var(--border-insurance);
+}
+.card.banking {
+  border-left-color: var(--border-banking);
+}
+.card.correctional {
+  border-left-color: var(--border-correctional);
+}
+
+.card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0.5rem; /* Un poquito más de espacio antes de la traducción */
+}
+
+/* 🎯 CAMBIO: Término en inglés más grande y nítido para leerlo cómodo */
+.term-title {
+  font-size: 1.2rem; /* Subió de 0.95rem a 1.2rem */
+  font-weight: 600; /* Un toque más de grosor */
+  color: #cbd5e1; /* Color gris claro de alto contraste en fondo oscuro */
+  text-transform: capitalize;
+}
+
+.badge {
+  font-size: 0.65rem;
+  font-weight: 700;
+  padding: 0.2rem 0.5rem;
+  border-radius: 4px;
+  background-color: #1e293b;
+  color: #cbd5e1;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+/* 🎯 ÉNFASIS Y NUEVA FUENTE PARA LA TRADUCCIÓN */
+.translation {
+  font-size: 1.6rem; /* Ajustado sutilmente */
+  color: #3b82f6; /* Cambiado a un azul eléctrico sutil para máxima distinción visual */
+  margin-bottom: 0.2rem;
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+.notes {
+  font-size: 0.85rem;
+  color: var(--text-muted);
+  border-top: 1px dashed #2e3a5f;
+  padding-top: 0.4rem;
+  margin-top: 0.4rem;
+  line-height: 1.3;
+}
+
+/* ==========================================================================
+   5. STATE UTILITIES
+   ========================================================================== */
+.placeholder-text,
+.no-results,
+.error-text {
+  text-align: center;
+  color: #52628a;
+  font-style: italic;
+  padding: 1.5rem;
+  font-size: 0.95rem;
+}
+
+.error-text {
+  color: #ef4444;
+}

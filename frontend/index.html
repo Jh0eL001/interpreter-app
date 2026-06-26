@@ -1,0 +1,38 @@
+<!-- frontend/index.html -->
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>LLS Quick Interpreter Dictionary</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+  <div class="app-container">
+    <header>
+      <h1>⚡LLS Interpreter Dictionary</h1>
+      <p>Búsqueda local ultra rápida para interpretación médica, legal y correccional.</p>
+    </header>
+
+    <main>
+      <!-- Barra de búsqueda -->
+      <div class="search-box">
+        <input type="text" id="search-input" placeholder="Escribe para buscar (ej: spine, bazo, mri...)" autofocus
+          autocomplete="off">
+      </div>
+
+      <!-- Contenedor dinámico de resultados -->
+      <div id="results-container" class="results-list">
+        <!-- JavaScript llenará esto en tiempo real -->
+        <p class="placeholder-text">Empieza a teclear para ver traducciones al instante...</p>
+      </div>
+    </main>
+  </div>
+
+  <!-- Vinculamos la lógica del Frontend -->
+  <script src="js/app.js"></script>
+</body>
+
+</html>

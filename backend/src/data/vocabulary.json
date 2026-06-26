@@ -1,0 +1,1314 @@
+[
+  {
+    "id": 1,
+    "term": "airway",
+    "is_acronym": false,
+    "translation": "via(s) respiratoria(s)",
+    "category": "Medical",
+    "notes": "The passage by which air reaches a person's lungs."
+  },
+  {
+    "id": 2,
+    "term": "alley",
+    "is_acronym": false,
+    "translation": "callejón, pasadizo",
+    "category": "Automotive",
+    "notes": "A narrow passageway between or behind buildings."
+  },
+  {
+    "id": 3,
+    "term": "annual out-of-pocket maximum",
+    "is_acronym": false,
+    "translation": "responsabilidad máxima del paciente, tope anual",
+    "category": "Insurance",
+    "notes": "Most money an insured individual will pay out of pocket per period."
+  },
+  {
+    "id": 4,
+    "term": "antitheft device",
+    "is_acronym": false,
+    "translation": "dispositivo contra robos",
+    "category": "Insurance",
+    "notes": "Device used to prevent unauthorized appropriation of the vehicle."
+  },
+  {
+    "id": 5,
+    "term": "arrangements",
+    "is_acronym": false,
+    "translation": "arreglos, acuerdos",
+    "category": "Banking",
+    "notes": "Formal agreement to pay back a debt over a longer period."
+  },
+  {
+    "id": 6,
+    "term": "backfire",
+    "is_acronym": false,
+    "translation": "explosión del escape",
+    "category": "Automotive",
+    "notes": "Engine undergoing a mistimed explosion in the cylinder."
+  },
+  {
+    "id": 7,
+    "term": "backrest",
+    "is_acronym": false,
+    "translation": "respaldo",
+    "category": "Automotive",
+    "notes": "A support for a person's back when seated."
+  },
+  {
+    "id": 8,
+    "term": "balance",
+    "is_acronym": false,
+    "translation": "saldo (NO BALANCE)",
+    "category": "Banking",
+    "notes": "LLS Strict Rule: Do not translate literally as balance."
+  },
+  {
+    "id": 9,
+    "term": "blind curve",
+    "is_acronym": false,
+    "translation": "Curva sin visibilidad",
+    "category": "Automotive",
+    "notes": "Bend in a road where the driver cannot see oncoming traffic."
+  },
+  {
+    "id": 10,
+    "term": "blind spot",
+    "is_acronym": false,
+    "translation": "Punto ciego, zona muerta",
+    "category": "Automotive",
+    "notes": "Areas around the vehicle that cannot be directly seen by the driver."
+  },
+  {
+    "id": 11,
+    "term": "Blinkers",
+    "is_acronym": false,
+    "translation": "luces intermitentes, señaleros de luz",
+    "category": "Automotive",
+    "notes": "A device that blinks, vehicle's turn signal."
+  },
+  {
+    "id": 12,
+    "term": "breast self-examination",
+    "is_acronym": false,
+    "translation": "autoexamen de los senos",
+    "category": "Medical",
+    "notes": "Screening method used to detect early breast cancer."
+  },
+  {
+    "id": 13,
+    "term": "breast-feeding clinic",
+    "is_acronym": false,
+    "translation": "clínica de lactancia materna",
+    "category": "Medical",
+    "notes": "Facilities supporting breastfeeding."
+  },
+  {
+    "id": 14,
+    "term": "broadside collision",
+    "is_acronym": false,
+    "translation": "Choque de costado",
+    "category": "Automotive",
+    "notes": "Side of one vehicle impacted by front/rear of another (T-bone)."
+  },
+  {
+    "id": 15,
+    "term": "broken down",
+    "is_acronym": false,
+    "translation": "Descompuesto",
+    "category": "Automotive",
+    "notes": "Not functioning due to mechanical failure."
+  },
+  {
+    "id": 16,
+    "term": "bronchi",
+    "is_acronym": false,
+    "translation": "bronquios",
+    "category": "Medical",
+    "notes": "Major air passages of the lungs."
+  },
+  {
+    "id": 17,
+    "term": "bumper",
+    "is_acronym": false,
+    "translation": "defensa, parachoques",
+    "category": "Automotive",
+    "notes": "Bar across front/back to lessen shock from collision."
+  },
+  {
+    "id": 18,
+    "term": "buttock",
+    "is_acronym": false,
+    "translation": "Nalga, glúteo",
+    "category": "Medical",
+    "notes": "Round fleshy parts forming lower rear area of trunk."
+  },
+  {
+    "id": 19,
+    "term": "clutch",
+    "is_acronym": false,
+    "translation": "embrague",
+    "category": "Automotive",
+    "notes": "Mechanism for connecting engine and transmission."
+  },
+  {
+    "id": 20,
+    "term": "come to rest",
+    "is_acronym": false,
+    "translation": "Pararse, detenerse",
+    "category": "Insurance",
+    "notes": "State of a car being motionless after an impact."
+  },
+  {
+    "id": 21,
+    "term": "communicable disease",
+    "is_acronym": false,
+    "translation": "enfermedad contagiable/transferible",
+    "category": "Medical",
+    "notes": "Infectious disease transmissible from person to person."
+  },
+  {
+    "id": 22,
+    "term": "comply (to)",
+    "is_acronym": false,
+    "translation": "cumplir",
+    "category": "Banking",
+    "notes": "To act in accordance with requirements or contracts."
+  },
+  {
+    "id": 23,
+    "term": "co-signer",
+    "is_acronym": false,
+    "translation": "aval, fiador",
+    "category": "Banking",
+    "notes": "Person legally responsible for money borrowed with another."
+  },
+  {
+    "id": 24,
+    "term": "cruise control",
+    "is_acronym": false,
+    "translation": "piloto automático",
+    "category": "Automotive",
+    "notes": "Electronic device maintaining constant speed without gas pedal."
+  },
+  {
+    "id": 25,
+    "term": "defroster",
+    "is_acronym": false,
+    "translation": "desempañador",
+    "category": "Automotive",
+    "notes": "System to clear condensation/frost from windshield."
+  },
+  {
+    "id": 26,
+    "term": "dent",
+    "is_acronym": false,
+    "translation": "Abolladura, hendidura",
+    "category": "Automotive",
+    "notes": "Slight hollow in hard surface made by a blow."
+  },
+  {
+    "id": 27,
+    "term": "De-Seg: Disciplinary Segregation",
+    "is_acronym": true,
+    "translation": "Aislado, en aislamiento",
+    "category": "Correctional",
+    "notes": "Jail Slang: In isolation, segregated from others."
+  },
+  {
+    "id": 28,
+    "term": "detour",
+    "is_acronym": false,
+    "translation": "desvío, desviación",
+    "category": "Automotive",
+    "notes": "Roundabout route taken to avoid something."
+  },
+  {
+    "id": 29,
+    "term": "DPT / DT / DtaP / DTP",
+    "is_acronym": true,
+    "translation": "vacuna contra difteria, tétanos y tos ferina",
+    "category": "Medical",
+    "notes": "Triple vaccine used for active immunization."
+  },
+  {
+    "id": 30,
+    "term": "ditch",
+    "is_acronym": false,
+    "translation": "Zanja",
+    "category": "Automotive",
+    "notes": "Narrow channel dug along the road for drainage."
+  },
+  {
+    "id": 31,
+    "term": "dizzy, light headed",
+    "is_acronym": false,
+    "translation": "Mareada",
+    "category": "Medical",
+    "notes": "Feeling like you are going to faint."
+  },
+  {
+    "id": 32,
+    "term": "Doing the Dutch / the 'Dutch Act'",
+    "is_acronym": false,
+    "translation": "(Recluso que planea) suicidarse",
+    "category": "Correctional",
+    "notes": "Inmate talk: To commit suicide."
+  },
+  {
+    "id": 33,
+    "term": "drizzling",
+    "is_acronym": false,
+    "translation": "Lloviznando",
+    "category": "Automotive",
+    "notes": "Rain that falls lightly in very small drops."
+  },
+  {
+    "id": 34,
+    "term": "eastbound",
+    "is_acronym": false,
+    "translation": "en dirección este, rumbo al este",
+    "category": "Automotive",
+    "notes": "Going toward the east."
+  },
+  {
+    "id": 35,
+    "term": "fee",
+    "is_acronym": false,
+    "translation": "cargo",
+    "category": "Banking",
+    "notes": "Amount of money paid for a service."
+  },
+  {
+    "id": 36,
+    "term": "fender",
+    "is_acronym": false,
+    "translation": "guardafangos, guardabarros, salpicadera",
+    "category": "Automotive",
+    "notes": "Guard over wheel blocking splashing of water/mud."
+  },
+  {
+    "id": 37,
+    "term": "fender bender",
+    "is_acronym": false,
+    "translation": "Choque leve",
+    "category": "Automotive",
+    "notes": "A minor collision between motor vehicles."
+  },
+  {
+    "id": 38,
+    "term": "fishtail",
+    "is_acronym": false,
+    "translation": "Colearse",
+    "category": "Automotive",
+    "notes": "Rear end of vehicle sliding from side to side out of control."
+  },
+  {
+    "id": 39,
+    "term": "flip over",
+    "is_acronym": false,
+    "translation": "Volcarse",
+    "category": "Automotive",
+    "notes": "Turn upside down or onto the side."
+  },
+  {
+    "id": 40,
+    "term": "fog",
+    "is_acronym": false,
+    "translation": "neblina",
+    "category": "Automotive",
+    "notes": "Vapor condensed suspended in lower atmosphere near ground."
+  },
+  {
+    "id": 41,
+    "term": "freeway",
+    "is_acronym": false,
+    "translation": "autopista",
+    "category": "Automotive",
+    "notes": "An express highway with controlled access."
+  },
+  {
+    "id": 42,
+    "term": "gear shift",
+    "is_acronym": false,
+    "translation": "palanca de cambio de velocidades",
+    "category": "Automotive",
+    "notes": "Device used to engage/disengage gears in transmission."
+  },
+  {
+    "id": 43,
+    "term": "groin",
+    "is_acronym": false,
+    "translation": "Ingle",
+    "category": "Medical",
+    "notes": "Area between abdomen and thigh."
+  },
+  {
+    "id": 44,
+    "term": "Health Maintenance Organization (HMO)",
+    "is_acronym": true,
+    "translation": "organización para el mantenimiento de la salud",
+    "category": "Insurance",
+    "notes": "Provides health coverage with contract providers."
+  },
+  {
+    "id": 45,
+    "term": "heart murmur",
+    "is_acronym": false,
+    "translation": "soplo cardiaco",
+    "category": "Medical",
+    "notes": "Whooshing sound during heartbeat cycle."
+  },
+  {
+    "id": 46,
+    "term": "highway patrol",
+    "is_acronym": false,
+    "translation": "patrulla de caminos, policia vial",
+    "category": "Legal",
+    "notes": "Police unit overseeing traffic safety."
+  },
+  {
+    "id": 47,
+    "term": "Hinged side door (in a van)",
+    "is_acronym": false,
+    "translation": "puerta lateral pivotante",
+    "category": "Automotive",
+    "notes": "Movable door on side swinging or sliding."
+  },
+  {
+    "id": 48,
+    "term": "hives",
+    "is_acronym": false,
+    "translation": "ronchas, urticaria",
+    "category": "Medical",
+    "notes": "All allergic skin reaction causing redness/swelling."
+  },
+  {
+    "id": 49,
+    "term": "hoarseness",
+    "is_acronym": false,
+    "translation": "ronquera, carraspera",
+    "category": "Medical",
+    "notes": "Difficulty making sounds when speaking."
+  },
+  {
+    "id": 50,
+    "term": "hospice care",
+    "is_acronym": false,
+    "translation": "cuidados paliativos / terminales",
+    "category": "Medical",
+    "notes": "Care focusing on palliation of terminally ill pain."
+  },
+  {
+    "id": 51,
+    "term": "hubcap",
+    "is_acronym": false,
+    "translation": "tapa de la llanta",
+    "category": "Automotive",
+    "notes": "Metal or plastic cover for the wheel hub."
+  },
+  {
+    "id": 52,
+    "term": "I.K.: Inmate Kitchen",
+    "is_acronym": true,
+    "translation": "Cocina para reclusos/presos",
+    "category": "Correctional",
+    "notes": "Kitchen facility where inmates can work."
+  },
+  {
+    "id": 53,
+    "term": "ice",
+    "is_acronym": false,
+    "translation": "hielo",
+    "category": "Automotive",
+    "notes": "Frozen water making roads dangerous."
+  },
+  {
+    "id": 54,
+    "term": "impounded",
+    "is_acronym": false,
+    "translation": "Confiscado, incautado",
+    "category": "Legal",
+    "notes": "Seize legal custody of vehicle due to violation."
+  },
+  {
+    "id": 55,
+    "term": "in-network",
+    "is_acronym": false,
+    "translation": "dentro de la red de proveedores",
+    "category": "Insurance",
+    "notes": "Facilities part of a plan's negotiated discount network."
+  },
+  {
+    "id": 56,
+    "term": "inpatient",
+    "is_acronym": false,
+    "translation": "paciente hospitalizado / internado",
+    "category": "Medical",
+    "notes": "Patient who stays in a hospital under treatment."
+  },
+  {
+    "id": 57,
+    "term": "installments",
+    "is_acronym": false,
+    "translation": "pagos",
+    "category": "Banking",
+    "notes": "Payments made as a series over time."
+  },
+  {
+    "id": 58,
+    "term": "insufficient Funds",
+    "is_acronym": false,
+    "translation": "fondos insuficientes",
+    "category": "Banking",
+    "notes": "Check returned because account lacks cash."
+  },
+  {
+    "id": 59,
+    "term": "Lane",
+    "is_acronym": false,
+    "translation": "carril",
+    "category": "Automotive",
+    "notes": "Division of road marked to separate lines of traffic."
+  },
+  {
+    "id": 60,
+    "term": "limb",
+    "is_acronym": false,
+    "translation": "extremidad",
+    "category": "Medical",
+    "notes": "An arm or leg of a person."
+  },
+  {
+    "id": 61,
+    "term": "listlessness",
+    "is_acronym": false,
+    "translation": "falta de energía",
+    "category": "Medical",
+    "notes": "Characterized by lack of energy or lethargy."
+  },
+  {
+    "id": 62,
+    "term": "loan",
+    "is_acronym": false,
+    "translation": "préstamo",
+    "category": "Banking",
+    "notes": "Sum of money lent at interest."
+  },
+  {
+    "id": 63,
+    "term": "lozenge, cough drop",
+    "is_acronym": false,
+    "translation": "pastilla/caramelo para la tos",
+    "category": "Medical",
+    "notes": "Medicated material sucked to relieve sore throat."
+  },
+  {
+    "id": 64,
+    "term": "market value",
+    "is_acronym": false,
+    "translation": "el precio de mercado",
+    "category": "Insurance",
+    "notes": "Amount for which something can be sold."
+  },
+  {
+    "id": 65,
+    "term": "median (strip)",
+    "is_acronym": false,
+    "translation": "franja central",
+    "category": "Automotive",
+    "notes": "Strip of land between opposing traffic lanes."
+  },
+  {
+    "id": 66,
+    "term": "mess hall",
+    "is_acronym": false,
+    "translation": "comedor (de reclusos)",
+    "category": "Correctional",
+    "notes": "Room where groups of inmates eat together."
+  },
+  {
+    "id": 67,
+    "term": "model",
+    "is_acronym": false,
+    "translation": "modelo",
+    "category": "Automotive",
+    "notes": "Particular brand size sold by car manufacturer."
+  },
+  {
+    "id": 68,
+    "term": "moving violation",
+    "is_acronym": false,
+    "translation": "Citación de transito en marcha",
+    "category": "Legal",
+    "notes": "Breach of traffic laws occurring while moving."
+  },
+  {
+    "id": 69,
+    "term": "mud flap",
+    "is_acronym": false,
+    "translation": "lodera, polveadora",
+    "category": "Automotive",
+    "notes": "Flap hanging behind wheel blocking stones/mud."
+  },
+  {
+    "id": 70,
+    "term": "mudguard",
+    "is_acronym": false,
+    "translation": "guardabarros, guardafangos",
+    "category": "Automotive",
+    "notes": "Cover over wheel designed to protect rider."
+  },
+  {
+    "id": 71,
+    "term": "multi-car",
+    "is_acronym": false,
+    "translation": "colisión/choque múltiple",
+    "category": "Insurance",
+    "notes": "Involving multiple cars in an accident."
+  },
+  {
+    "id": 72,
+    "term": "mumps",
+    "is_acronym": false,
+    "translation": "paperas, parotiditis",
+    "category": "Medical",
+    "notes": "Infectious disease causing swelling of salivary glands."
+  },
+  {
+    "id": 73,
+    "term": "no outlet sign",
+    "is_acronym": false,
+    "translation": "rótulo de calle sin salida",
+    "category": "Automotive",
+    "notes": "Sign indicating road terminates in a dead end."
+  },
+  {
+    "id": 74,
+    "term": "nurse practitioner",
+    "is_acronym": false,
+    "translation": "enfermera facultativa",
+    "category": "Medical",
+    "notes": "Advanced practice nurse trained much like doctors."
+  },
+  {
+    "id": 75,
+    "term": "Off ramp",
+    "is_acronym": false,
+    "translation": "Rampa/carril de salida",
+    "category": "Automotive",
+    "notes": "Ramp allowing vehicles to exit controlled highway."
+  },
+  {
+    "id": 76,
+    "term": "On ramp",
+    "is_acronym": false,
+    "translation": "Rampa/carril de entrada",
+    "category": "Automotive",
+    "notes": "Ramp allowing vehicles to enter controlled highway."
+  },
+  {
+    "id": 77,
+    "term": "one way street",
+    "is_acronym": false,
+    "translation": "calle de una sola vía",
+    "category": "Automotive",
+    "notes": "Street allowing traffic movement in one direction only."
+  },
+  {
+    "id": 78,
+    "term": "overdraft",
+    "is_acronym": false,
+    "translation": "sobregiro",
+    "category": "Banking",
+    "notes": "Deficit caused by drawing more money than held."
+  },
+  {
+    "id": 79,
+    "term": "overpass",
+    "is_acronym": false,
+    "translation": "puente elevado, paso elevado",
+    "category": "Automotive",
+    "notes": "A bridge by which a road passes over another."
+  },
+  {
+    "id": 80,
+    "term": "overturned",
+    "is_acronym": false,
+    "translation": "Se volcó (volcarse)",
+    "category": "Automotive",
+    "notes": "Vehicle tipped over onto its side or upside down."
+  },
+  {
+    "id": 81,
+    "term": "pale",
+    "is_acronym": false,
+    "translation": "Pálida",
+    "category": "Medical",
+    "notes": "Light in color, having little color in skin."
+  },
+  {
+    "id": 82,
+    "term": "Pap smear",
+    "is_acronym": false,
+    "translation": "Papanicolaou",
+    "category": "Medical",
+    "notes": "Procedure to test for cervical cancer in women."
+  },
+  {
+    "id": 83,
+    "term": "pass out",
+    "is_acronym": false,
+    "translation": "desmayarse",
+    "category": "Medical",
+    "notes": "To become completely unconscious."
+  },
+  {
+    "id": 84,
+    "term": "paystubs",
+    "is_acronym": false,
+    "translation": "talones de cheque, comprobantes",
+    "category": "Banking",
+    "notes": "Paper showing employee earnings and tax deductions."
+  },
+  {
+    "id": 85,
+    "term": "pedestrian crossing",
+    "is_acronym": false,
+    "translation": "cruce peatonal / de peatones",
+    "category": "Automotive",
+    "notes": "Marked part of road where pedestrians have right of way."
+  },
+  {
+    "id": 86,
+    "term": "Pertussis",
+    "is_acronym": false,
+    "translation": "tos ferina",
+    "category": "Medical",
+    "notes": "Contagious bacterial disease; whooping cough."
+  },
+  {
+    "id": 87,
+    "term": "phlegm",
+    "is_acronym": false,
+    "translation": "Flema",
+    "category": "Medical",
+    "notes": "Thick viscous substance secreted by mucous membranes."
+  },
+  {
+    "id": 88,
+    "term": "pickup truck",
+    "is_acronym": false,
+    "translation": "Camioneta",
+    "category": "Automotive",
+    "notes": "Small truck with enclosed cab and open back."
+  },
+  {
+    "id": 89,
+    "term": "PIN",
+    "is_acronym": true,
+    "translation": "número de identificación personal",
+    "category": "Banking",
+    "notes": "Personal Identification Number password."
+  },
+  {
+    "id": 90,
+    "term": "pins and needles",
+    "is_acronym": false,
+    "translation": "hormigueo, punzadas",
+    "category": "Medical",
+    "notes": "Tingling or prickling sensation usually in limbs."
+  },
+  {
+    "id": 91,
+    "term": "policyholder",
+    "is_acronym": false,
+    "translation": "titular de la póliza",
+    "category": "Insurance",
+    "notes": "Person in whose name an insurance policy is held."
+  },
+  {
+    "id": 92,
+    "term": "power brakes",
+    "is_acronym": false,
+    "translation": "frenos de potencia",
+    "category": "Automotive",
+    "notes": "System of hydraulics used to slow down vehicles."
+  },
+  {
+    "id": 93,
+    "term": "power locks",
+    "is_acronym": false,
+    "translation": "cerradura automática",
+    "category": "Automotive",
+    "notes": "Locks allowing simultaneous control of all doors."
+  },
+  {
+    "id": 94,
+    "term": "power trunk",
+    "is_acronym": false,
+    "translation": "maletero automático",
+    "category": "Automotive",
+    "notes": "A vehicle's power operated trunk compartment."
+  },
+  {
+    "id": 95,
+    "term": "Preferred Provider Organization (PPO)",
+    "is_acronym": true,
+    "translation": "Organización de Proveedores Preferenciales",
+    "category": "Insurance",
+    "notes": "Managed care network plan; no referral needed."
+  },
+  {
+    "id": 96,
+    "term": "Quarter panel",
+    "is_acronym": false,
+    "translation": "panel frontal o trasero",
+    "category": "Automotive",
+    "notes": "Any exterior body panel surface of an automobile."
+  },
+  {
+    "id": 97,
+    "term": "rash",
+    "is_acronym": false,
+    "translation": "erupción, sarpullido",
+    "category": "Medical",
+    "notes": "Breaking out or eruption of the skin due to allergies."
+  },
+  {
+    "id": 98,
+    "term": "rear view mirror",
+    "is_acronym": false,
+    "translation": "espejo retrovisor",
+    "category": "Automotive",
+    "notes": "Mirror fixed inside enabling to see behind."
+  },
+  {
+    "id": 99,
+    "term": "Recorded Statement",
+    "is_acronym": false,
+    "translation": "declaración grabada",
+    "category": "Insurance",
+    "notes": "Formal oral declaration recorded by an adjuster."
+  },
+  {
+    "id": 100,
+    "term": "running boards",
+    "is_acronym": false,
+    "translation": "estribos y escalones",
+    "category": "Automotive",
+    "notes": "Footboard extending along the side of high vehicles."
+  },
+  {
+    "id": 101,
+    "term": "scratch",
+    "is_acronym": false,
+    "translation": "Raspón-raya, raspadura",
+    "category": "Automotive",
+    "notes": "Score or mark on surface with a sharp object."
+  },
+  {
+    "id": 102,
+    "term": "screening test",
+    "is_acronym": false,
+    "translation": "Pruebas de detección",
+    "category": "Medical",
+    "notes": "Test designed to identify or eliminate diseases."
+  },
+  {
+    "id": 103,
+    "term": "seizure",
+    "is_acronym": false,
+    "translation": "ataque convulsivo",
+    "category": "Medical",
+    "notes": "Sudden attack with convulsions from brain discharges."
+  },
+  {
+    "id": 104,
+    "term": "shackles",
+    "is_acronym": false,
+    "translation": "grilletes",
+    "category": "Correctional",
+    "notes": "Inmate talk: Fastening device to restrain prisoners."
+  },
+  {
+    "id": 105,
+    "term": "shaking, trembling",
+    "is_acronym": false,
+    "translation": "Temblando",
+    "category": "Medical",
+    "notes": "To shake involuntarily from fear, cold, or weakness."
+  },
+  {
+    "id": 106,
+    "term": "shortage",
+    "is_acronym": false,
+    "translation": "escasez",
+    "category": "Banking",
+    "notes": "State where there is not enough money in escrow."
+  },
+  {
+    "id": 107,
+    "term": "shortness of breath",
+    "is_acronym": false,
+    "translation": "falta de aliento, o de aire",
+    "category": "Medical",
+    "notes": "Laboring or difficult breathing sensation."
+  },
+  {
+    "id": 108,
+    "term": "sick bay",
+    "is_acronym": false,
+    "translation": "enfermería",
+    "category": "Correctional",
+    "notes": "Inmate talk: Medical care room within a jail."
+  },
+  {
+    "id": 109,
+    "term": "side mirrors",
+    "is_acronym": false,
+    "translation": "espejos laterales retrovisores",
+    "category": "Automotive",
+    "notes": "Exterior mirrors for viewing the blind spot areas."
+  },
+  {
+    "id": 110,
+    "term": "sidewalk",
+    "is_acronym": false,
+    "translation": "acera, banqueta",
+    "category": "Automotive",
+    "notes": "Paved path for pedestrians at the side of a road."
+  },
+  {
+    "id": 111,
+    "term": "signal",
+    "is_acronym": false,
+    "translation": "Señal",
+    "category": "Automotive",
+    "notes": "Gesture or traffic device conveying instructions."
+  },
+  {
+    "id": 112,
+    "term": "skid, to",
+    "is_acronym": false,
+    "translation": "Patinar",
+    "category": "Automotive",
+    "notes": "Slide sideways on slippery ground or turning fast."
+  },
+  {
+    "id": 113,
+    "term": "skid marks",
+    "is_acronym": false,
+    "translation": "Huellas de frenazo",
+    "category": "Automotive",
+    "notes": "Black marks left on a road by skidding tires."
+  },
+  {
+    "id": 114,
+    "term": "skidded",
+    "is_acronym": false,
+    "translation": "patinó",
+    "category": "Automotive",
+    "notes": "Past tense of a vehicle sliding out of control."
+  },
+  {
+    "id": 115,
+    "term": "Slam (to)",
+    "is_acronym": false,
+    "translation": "Embestir",
+    "category": "Automotive",
+    "notes": "Heavy blow, impact, or violent closing of a door."
+  },
+  {
+    "id": 116,
+    "term": "sling",
+    "is_acronym": false,
+    "translation": "cabestrillo",
+    "category": "Medical",
+    "notes": "Supporting bandage loop suspended from the neck."
+  },
+  {
+    "id": 117,
+    "term": "sole (of the foot)",
+    "is_acronym": false,
+    "translation": "Planta (del pie)",
+    "category": "Medical",
+    "notes": "The bottom surface of the foot."
+  },
+  {
+    "id": 118,
+    "term": "spell",
+    "is_acronym": false,
+    "translation": "episodio",
+    "category": "Medical",
+    "notes": "A period of bodily or mental distress (fainting)."
+  },
+  {
+    "id": 119,
+    "term": "spinal column",
+    "is_acronym": false,
+    "translation": "columna vertebral",
+    "category": "Medical",
+    "notes": "Series of vertebrae encasing the spinal cord."
+  },
+  {
+    "id": 120,
+    "term": "spine",
+    "is_acronym": false,
+    "translation": "espina dorsal",
+    "category": "Medical",
+    "notes": "The backbone providing skeletal structure support."
+  },
+  {
+    "id": 121,
+    "term": "spleen",
+    "is_acronym": false,
+    "translation": "Bazo",
+    "category": "Medical",
+    "notes": "Largest lymphatic organ filtering blood cells."
+  },
+  {
+    "id": 122,
+    "term": "sprain",
+    "is_acronym": false,
+    "translation": "esguince, torcedura",
+    "category": "Medical",
+    "notes": "A stretching or tearing of bone ligaments."
+  },
+  {
+    "id": 123,
+    "term": "statement",
+    "is_acronym": false,
+    "translation": "estado de cuenta",
+    "category": "Banking",
+    "notes": "Document showing financial account transactions summary."
+  },
+  {
+    "id": 124,
+    "term": "steering wheel",
+    "is_acronym": false,
+    "translation": "timón, volante",
+    "category": "Automotive",
+    "notes": "Wheel that a driver rotates to steer the vehicle."
+  },
+  {
+    "id": 125,
+    "term": "strain",
+    "is_acronym": false,
+    "translation": "distensión muscular, cepa",
+    "category": "Medical",
+    "notes": "Tearing of muscle/tendon, or bacterial strain."
+  },
+  {
+    "id": 126,
+    "term": "strep throat",
+    "is_acronym": false,
+    "translation": "infección de estreptococo B",
+    "category": "Medical",
+    "notes": "Bacterial throat infection causing complications."
+  },
+  {
+    "id": 127,
+    "term": "stretcher",
+    "is_acronym": false,
+    "translation": "Camilla, parihuela",
+    "category": "Medical",
+    "notes": "Apparatus used for moving ambulance patients."
+  },
+  {
+    "id": 128,
+    "term": "stuffed up",
+    "is_acronym": false,
+    "translation": "tapado, congestionado",
+    "category": "Medical",
+    "notes": "Excess secretions in the nasal passages."
+  },
+  {
+    "id": 129,
+    "term": "surrender",
+    "is_acronym": false,
+    "translation": "ceder, entregar",
+    "category": "Banking",
+    "notes": "Give up property/vehicle due to non-payment."
+  },
+  {
+    "id": 130,
+    "term": "swerve (to)",
+    "is_acronym": false,
+    "translation": "Desviarse bruscamente",
+    "category": "Automotive",
+    "notes": "Veer or change direction abruptly to avoid hit."
+  },
+  {
+    "id": 131,
+    "term": "swollen",
+    "is_acronym": false,
+    "translation": "Hinchado",
+    "category": "Medical",
+    "notes": "Become bigger due to soft tissue fluid buildup."
+  },
+  {
+    "id": 132,
+    "term": "tailgate (to)",
+    "is_acronym": false,
+    "translation": "Pegarse o seguir de cerca",
+    "category": "Automotive",
+    "notes": "To drive too closely behind another vehicle."
+  },
+  {
+    "id": 133,
+    "term": "taillight",
+    "is_acronym": false,
+    "translation": "luz trasera",
+    "category": "Automotive",
+    "notes": "A warning light located at the rear of a vehicle."
+  },
+  {
+    "id": 134,
+    "term": "The Monster / The Ninja",
+    "is_acronym": false,
+    "translation": "(Recluso) con SIDA",
+    "category": "Correctional",
+    "notes": "Inmate slang: Having HIV/AIDS in jail."
+  },
+  {
+    "id": 135,
+    "term": "throbbing (pain)",
+    "is_acronym": false,
+    "translation": "dolor pulsante, palpitante",
+    "category": "Medical",
+    "notes": "Deep pulsating pain associated with migraines."
+  },
+  {
+    "id": 136,
+    "term": "tingling",
+    "is_acronym": false,
+    "translation": "hormigueo",
+    "category": "Medical",
+    "notes": "Sensation of being poked lightly with needles."
+  },
+  {
+    "id": 137,
+    "term": "tonsillitis",
+    "is_acronym": false,
+    "translation": "amigdalitis",
+    "category": "Medical",
+    "notes": "Inflammation of the throat tonsils."
+  },
+  {
+    "id": 138,
+    "term": "tonsils",
+    "is_acronym": false,
+    "translation": "amigdalas",
+    "category": "Medical",
+    "notes": "Masses of lymphoid tissue in the throat."
+  },
+  {
+    "id": 139,
+    "term": "towed",
+    "is_acronym": false,
+    "translation": "remolcado",
+    "category": "Automotive",
+    "notes": "Vehicle pulled by chains or tow platform."
+  },
+  {
+    "id": 140,
+    "term": "tow-yard",
+    "is_acronym": false,
+    "translation": "Estacionamiento de vehículos remolcados",
+    "category": "Automotive",
+    "notes": "Storage facility to park disabled vehicles."
+  },
+  {
+    "id": 141,
+    "term": "traffic light",
+    "is_acronym": false,
+    "translation": "semáforo",
+    "category": "Automotive",
+    "notes": "Automatically operated colored road signal lights."
+  },
+  {
+    "id": 142,
+    "term": "traffic control",
+    "is_acronym": false,
+    "translation": "control del tráfico / transito",
+    "category": "Automotive",
+    "notes": "Directing traffic around construction or accidents."
+  },
+  {
+    "id": 143,
+    "term": "traffic sign",
+    "is_acronym": false,
+    "translation": "señal de tránsito",
+    "category": "Automotive",
+    "notes": "Sign conveying instructions or road warnings."
+  },
+  {
+    "id": 144,
+    "term": "trailer hitch",
+    "is_acronym": false,
+    "translation": "enganche de remolque",
+    "category": "Automotive",
+    "notes": "Device attached to chassis used for towing."
+  },
+  {
+    "id": 145,
+    "term": "turn arrow",
+    "is_acronym": false,
+    "translation": "flecha de cruce / para voltear",
+    "category": "Automotive",
+    "notes": "Signal arrow indicating allowed turn directions."
+  },
+  {
+    "id": 146,
+    "term": "turn signal",
+    "is_acronym": false,
+    "translation": "señalero, luz de cruce",
+    "category": "Automotive",
+    "notes": "Flashing light showing intention to change lanes."
+  },
+  {
+    "id": 147,
+    "term": "turning lane",
+    "is_acronym": false,
+    "translation": "carril para dar vuelta",
+    "category": "Automotive",
+    "notes": "Auxiliary lane to wait safely for a left turn."
+  },
+  {
+    "id": 148,
+    "term": "urinalysis",
+    "is_acronym": false,
+    "translation": "análisis de orina",
+    "category": "Medical",
+    "notes": "Test evaluating urine to detect UTIs or diabetes."
+  },
+  {
+    "id": 149,
+    "term": "urinary incontinence",
+    "is_acronym": false,
+    "translation": "incontinencia urinaria",
+    "category": "Medical",
+    "notes": "Involuntary leakage or inability to hold urine."
+  },
+  {
+    "id": 150,
+    "term": "vaccines, immunizations",
+    "is_acronym": false,
+    "translation": "Vacunas",
+    "category": "Medical",
+    "notes": "Process rendering a person resistant to disease."
+  },
+  {
+    "id": 151,
+    "term": "vaginal discharge",
+    "is_acronym": false,
+    "translation": "flujo vaginal, secreción",
+    "category": "Medical",
+    "notes": "Secretions from the vagina (thick, thin, odors)."
+  },
+  {
+    "id": 152,
+    "term": "vaginal yeast infection",
+    "is_acronym": false,
+    "translation": "micosis vaginal",
+    "category": "Medical",
+    "notes": "Fungal infection causing intense itchiness."
+  },
+  {
+    "id": 153,
+    "term": "void",
+    "is_acronym": false,
+    "translation": "vaciar la vejiga",
+    "category": "Medical",
+    "notes": "To discharge or emit urine completely."
+  },
+  {
+    "id": 154,
+    "term": "waive",
+    "is_acronym": false,
+    "translation": "exonerar",
+    "category": "Banking",
+    "notes": "Refrain from enforcing a contract fee safely."
+  },
+  {
+    "id": 155,
+    "term": "walker",
+    "is_acronym": false,
+    "translation": "andadera, andador",
+    "category": "Medical",
+    "notes": "Support frame for injured/elderly walking help."
+  },
+  {
+    "id": 156,
+    "term": "walk-in clinic",
+    "is_acronym": false,
+    "translation": "clínica ambulatoria",
+    "category": "Medical",
+    "notes": "Medical facility accepting patients without appointments."
+  },
+  {
+    "id": 157,
+    "term": "watery stool",
+    "is_acronym": false,
+    "translation": "defecación aguada",
+    "category": "Medical",
+    "notes": "Bouts of loose diarrhea stools with little form."
+  },
+  {
+    "id": 158,
+    "term": "wheezing",
+    "is_acronym": false,
+    "translation": "resuello, silbido",
+    "category": "Medical",
+    "notes": "Whistling or rattling chest sound from air passage blocks."
+  },
+  {
+    "id": 159,
+    "term": "whiplash",
+    "is_acronym": false,
+    "translation": "latigazo",
+    "category": "Medical",
+    "notes": "Neck injury caused by sudden rapid head jerking."
+  },
+  {
+    "id": 160,
+    "term": "windpipe, trachea",
+    "is_acronym": false,
+    "translation": "tráquea",
+    "category": "Medical",
+    "notes": "Cartilaginous tube connecting pharynx to lungs."
+  },
+  {
+    "id": 161,
+    "term": "wipers",
+    "is_acronym": false,
+    "translation": "escobillas, limpiaparabrisas",
+    "category": "Automotive",
+    "notes": "Motor device keeping windshield clear of rain."
+  },
+  {
+    "id": 162,
+    "term": "withdrawal",
+    "is_acronym": false,
+    "translation": "Retiro",
+    "category": "Banking",
+    "notes": "Removal of money from a place of deposit."
+  },
+  {
+    "id": 163,
+    "term": "womb",
+    "is_acronym": false,
+    "translation": "vientre, el útero, la matriz",
+    "category": "Medical",
+    "notes": "The uterus organ structure."
+  },
+  {
+    "id": 164,
+    "term": "yield sign",
+    "is_acronym": false,
+    "translation": "señal de ceder el paso / la via",
+    "category": "Automotive",
+    "notes": "Sign instructing drivers to slow down and defer."
+  }
+]
