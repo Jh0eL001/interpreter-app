@@ -3544,5 +3544,41 @@
     "category": "Medical",
     "scenario": "Respiratory",
     "notes": "Airway pressure device keeping channels open in sleep apnea cycles."
+  },
+  {
+    "id": 412,
+    "term": "hearing",
+    "is_acronym": false,
+    "translation": "audiencia",
+    "category": "Legal",
+    "scenario": "Court",
+    "notes": "Formal proceeding in a court of law."
+  },
+  {
+    "id": 413,
+    "term": "gauze pads",
+    "is_acronym": false,
+    "translation": "gasas",
+    "category": "Medical",
+    "scenario": "Supplies",
+    "notes": "Medical pads used for dressing wounds."
+  },
+  {
+    "id": 414,
+    "term": "q-tip",
+    "is_acronym": false,
+    "translation": "hisopo",
+    "category": "Medical",
+    "scenario": "Supplies",
+    "notes": "Cotton swab for cleaning or applying medicine."
+  },
+  {
+    "id": 415,
+    "term": "acne",
+    "is_acronym": false,
+    "translation": "pimples",
+    "category": "Medical",
+    "scenario": "Dermatology",
+    "notes": "Skin condition characterized by pimples."
   }
 ]
